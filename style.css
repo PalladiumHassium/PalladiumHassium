@@ -19,6 +19,7 @@ body {
   .openButton {
     background-color: transparent;
     border: none;
+    place-items: center;
     cursor: pointer; /* line 19-22 by ChatGPT for the elements of the periodic table. The idea is also from ChatGPT */
   }
   .openButtons {
