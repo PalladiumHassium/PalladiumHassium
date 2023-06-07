@@ -1,6 +1,10 @@
 body {
     background-color: rgb(141, 201, 201);
   }
+  
+  .periodictable {
+    text-align: center; /*this idea is from ChatGPT*/
+  }
   .title{
     font-family: Algerian, sans-serif; /* Font-family method by ChatGPT */
     font-size: 25px;
@@ -19,7 +23,7 @@ body {
   .openButton {
     background-color: transparent;
     border: none;
-    cursor: pointer; /* line 19-22 by ChatGPT for the elements of the periodic table. The idea is also from ChatGPT */
+    cursor: pointer; /* line 23-26 by ChatGPT for the elements of the periodic table. The idea is also from ChatGPT */
   }
   .openButtons {
     background-color: transparent;
