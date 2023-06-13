@@ -3,8 +3,8 @@ var HydrogenButton = document.getElementsByClassName("openButton")[0]; // settin
 
 var HydrogenDataAttributes = {
   element: "Hydrogen",
-  image: "1.png",
-  text: "Hydrogen is the first element by atomic number."
+  image: "1.jpg",
+  text: "Hydrogen is the first element by atomic number. (do some research on Hindenburg Blimp and make connection to hydrogen)"
 }; // line 4-8: write out the variable "HydrogenDataAttributes" that contains the definition of 3 elements on the page: element, image, and text based on the html code.
 
 function openHydrogenPopupWindow() {
