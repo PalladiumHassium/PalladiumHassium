@@ -2,7 +2,7 @@ var Button9 = document.getElementsByClassName("openButton")[8];
 
 var dataAttributes9 = {
     element: "Fluorine",
-    image: "9.png",
+    image: "9.jpg",
     text: "Fluorine."
 };
 
