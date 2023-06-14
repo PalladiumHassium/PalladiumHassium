@@ -20,7 +20,7 @@ function openPopupWindow2() {
                    + "<img src='" + image + "' style='" + imageSize1 + "'>"
                    + "<p>" + text + "</p>"
                    + "<img src='HydrogenFusionEquation.png' style='" + imageSize2 + "'>" //credit to Willard's note; also credit to ChatGPT helped me with lines 22-23
-                   + "<p>This equation represents how hydrogen-2 and hydrogen-3 fuses together. </p>"
+                   + "<p>This equation represents how hydrogen-2 and hydrogen-3 fuses together. </p>" //do some more research
                    + "</div>";
                    
 
