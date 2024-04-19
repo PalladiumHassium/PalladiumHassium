@@ -2,22 +2,51 @@ var Button8 = document.getElementsByClassName("openButton")[7];
 
 var dataAttributes8 = {
     element: "Oxygen",
-    image: "8.webp",
-    text: "Oxygen."
+    image: "8.jpg",
+    video_a: "OxygenVideo1.mp4",
+    video_b: "OxygenVideo2.mp4",
+    video_c: "OxygenVideo3.mp4",
+    text: "Oxygen (<b>symbol: O</b>) is a colorless, odorless and tasteless gas; it is another <b>diatomic element existing in nature</b>. Oxygen is also a gas with <b>poor conductivity of heat and electricity</b>. Oxygen is present in <b>some</b> organic compounds such as methanol and ethanol, and is soluble in some liquids such as water. Additionally, it is a part of needed to keep the fire burning, but oxygen itself does not combust nor burn. Oxygen can be produced through the electric discharge within itself and through the process of action of ultraviolet radiation on itself in the stratosphere (a layer of the earth's atmosphere).</b>"
 };
 
 function openPopupWindow8() {
   var image = dataAttributes8.image;
   var text = dataAttributes8.text;
   var element = dataAttributes8.element;
+  var video1 = dataAttributes8.video_a;
+  var video2 = dataAttributes8.video_b;
+  var video3 = dataAttributes8.video_c;
   var windowName = "PopupWindow";
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 
+
   var popupContent8 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
                    + "<h1>" + element + "</h1>"
                    + "<img src='" + image + "' style='" + imageSize + "'>"
+                   + "<p></p>"
+                   + "<p></p>"
+                   + "<h2><u>Element Properties</u></h2>"
                    + "<p>" + text + "</p>"
+                   + "<p></p>"
+                   + "<h2><u>Reaction Time!</u></h2>"
+                   + "<p>Oxygen in liquid form is an extremely powerful substance – its temperature is at -183°C, and it appears to be light blue. Objects would burn vigorously if they have been previously soaked in liquid oxygen.</p>"
+                   + "<p>When an ignited match is put inside the test tube containing the liquid oxygen, the test tube would appear to be combusting dynamically.</p>"
+                   + "<video src='" + video1 + "' style='" + imageSize + "'controls></video>"
+                   + "<p>When a steam bum (which is very difficult to be burned under normal conditions due to the low level of oxygen within our atmosphere) that is previously soaked in liquid oxygen, it would burn aggressively <b><u>because the concentration of oxygen of liquid oxygen is almost 4000x than the air in the atmosphere.</u></b></p>"
+                   + "<video src='" + video2 + "' style='" + imageSize + "'controls></video>"
+                   + "<p>When the fire reacts with sponge that is also previously soaked with liquid oxygen, <b><u>it would burn into ashes all within a very short amount of time after about 1s – as if it disappears all in a sudden!</u></b></p>"
+                   + "<video src='" + video3 + "' style='" + imageSize + "'controls></video>"
+                   + "<p>Videos Reference: <a href = https://www.youtube.com/watch?v=KtR3pC5Kqs0> 另一种形态的氧气，破坏力竟然如此惊人？连铁都能像纸一样被燃烧🔥！</a> (English Translation: Another Form of Oxygen is so Powerful that Even Iron Metal can be Burnt Like Paper?)</p>"
+                   + "<p></p>"
+                   + "<h2><u>History and Discovery</u></h2>"
+                   + "<p>In 1772, a Swedish chemist named Carl Wilhelm Scheele obtained and discovered oxygen by heating potassium nitrate, mercuric oxide (or mercury (II) oxide, HgO) and many other chemicals. 2 years later, English chemist Joseph Priestley discovered oxygen independently by decomposing mercuric oxide thermally and then published this discovery within the same year – 3 years before Scheele did.</p>"
+                   + "<p>Between 1775 and 1780, French chemist Antoine-Laurent Lavoiser interpreted the role oxygen plays in combustion and respiration with a remarkable insight. It discarded the phlogiston theory – which had been accepted up to that point. Furthermore, Lavoisier also noted the element's tendency of forming acid through combining with a variety of substance, then accordingly named the element <b>oxygen</b> – standing for <b>acid former</b>.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Applications</u></h2>"
+                   + "<p>There are some more applications of oxygen, including productions of stone and glass products, mining of stone, medicial and biological support, rocket propulsion (pushing the rocket forward), producing chemicals through controlled oxidization, as well as melting, refining and manufacturing steel and other metals.</p>"
+                   + "<p>Oxygen, however, as the level of it increases overtime, the atmosphere thickened – blocking some sunlight on the way, hence the lower vaporization as well as less production of water vapors, resulting in decrease in temperature.</p>"
+                   + "<p>.</p>"
                    + "</div>";
 
   var popupWindow = window.open("", windowName, windowFeatures);
