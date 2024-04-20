@@ -1,20 +1,20 @@
-var Button57 = document.getElementsByClassName("openButton")[56];
+var Button89 = document.getElementsByClassName("openButton")[88];
 
-var dataAttributes57 = {
-    element: "Lanthanides",
-    image: "Lanthanides.webp",
-    text: "Lanthanides."
+var dataAttributes89 = {
+    element: "Lanthanum",
+    image: "57.webp",
+    text: "Lanthanum."
 };
 
-function openPopupWindow57() {
-  var image = dataAttributes57.image;
-  var text = dataAttributes57.text;
-  var element = dataAttributes57.element;
+function openPopupWindow89() {
+  var image = dataAttributes89.image;
+  var text = dataAttributes89.text;
+  var element = dataAttributes89.element;
   var windowName = "PopupWindow";
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 
-  var popupContent57 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
+  var popupContent89 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
                    + "<h1>" + element + "</h1>"
                    + "<img src='" + image + "' style='" + imageSize + "'>"
                    + "<p>" + text + "</p>"
@@ -22,10 +22,10 @@ function openPopupWindow57() {
 
   var popupWindow = window.open("", windowName, windowFeatures);
   if (popupWindow) {
-    popupWindow.document.write(popupContent57);
+    popupWindow.document.write(popupContent89);
   } else {
     alert("Please allow pop-ups for this website.");
   }
 }
 
-Button57.addEventListener("click", openPopupWindow57);
+Button89.addEventListener("click", openPopupWindow89);
