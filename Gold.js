@@ -1,4 +1,4 @@
-var Button64 = document.getElementsByClassName("openButton")[64];
+var Button64 = document.getElementsByClassName("openButton")[63];
 
 var dataAttributes64 = {
     element: "Gold",
