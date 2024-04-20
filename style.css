@@ -36,3 +36,9 @@ body {
     width: 79px;
     height: 67px;
   }
+  .SpecialImages {
+    background-color: transparent;
+    border: none;
+    width: 67px;
+    height: 67px;
+  }

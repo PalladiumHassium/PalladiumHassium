@@ -1,20 +1,20 @@
-var Button60 = document.getElementsByClassName("openButton")[59];
+var Button59 = document.getElementsByClassName("openButton")[58];
 
-var dataAttributes60 = {
+var dataAttributes59 = {
     element: "Tungsten",
     image: "74.webp",
     text: "Tungsten."
 };
 
-function openPopupWindow60() {
-  var image = dataAttributes60.image;
-  var text = dataAttributes60.text;
-  var element = dataAttributes60.element;
+function openPopupWindow59() {
+  var image = dataAttributes59.image;
+  var text = dataAttributes59.text;
+  var element = dataAttributes59.element;
   var windowName = "PopupWindow";
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 
-  var popupContent60 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
+  var popupContent59 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
                    + "<h1>" + element + "</h1>"
                    + "<img src='" + image + "' style='" + imageSize + "'>"
                    + "<p>" + text + "</p>"
@@ -22,10 +22,10 @@ function openPopupWindow60() {
 
   var popupWindow = window.open("", windowName, windowFeatures);
   if (popupWindow) {
-    popupWindow.document.write(popupContent60);
+    popupWindow.document.write(popupContent59);
   } else {
     alert("Please allow pop-ups for this website.");
   }
 }
 
-Button60.addEventListener("click", openPopupWindow60);
+Button59.addEventListener("click", openPopupWindow59);
