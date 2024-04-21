@@ -4,7 +4,7 @@ var dataAttributes9 = {
     element: "Fluorine",
     image: "9.jpg",
     video1: "FluorineCharcoalReaction.mp4",
-    text: "Fluorine (<b>symbol: F</b>) is the <b>fourth diatomic element existing in nature</b> (there are in total of <b>seven diatomic elements existing in nature</b> in total). It is a <b>poisonous and chemically the most reactive gas</b> – it also forms compounds with <b>many elements, including noble gases – which are usually unreactive – such as krypton, xenon and radon</b>. Fluorine's powerful reaction can even <b>make glass, water, metals and other substances burn with a bright flame!</b>. It looks pale yellow and has an irritating odor at room temperature, and becomes yellow liquid upon cooling. Fluorine also has a relatively low boiling point and melting point, and can be found as a gas – just not as its natural state due to it is a highly reactive element – in nature."
+    text: "Fluorine (<b>symbol: F</b>) is <b>the fourth diatomic element existing in nature</b> (there are in total of <b>seven diatomic elements existing in nature</b> in total). It is a <b>poisonous and chemically the most reactive gas</b> – it also forms compounds with <b>many elements, including noble gases – which are usually unreactive – such as krypton, xenon and radon</b>. Fluorine's powerful reaction can even <b>make glass, water, metals and other substances burn with a bright flame!</b>. It looks pale yellow and has an irritating odor at room temperature, and becomes yellow liquid upon cooling. Fluorine also has a relatively low boiling point and melting point, and can be found as a gas – just not as its natural state due to it is a highly reactive element – in nature."
 };
 
 function openPopupWindow9() {
@@ -26,7 +26,7 @@ function openPopupWindow9() {
                    + "<p>" + text + "</p>"
                    + "<p></p>"
                    + "<h2><u>Reaction Time!</u></h2>"
-                   + "<p>Due to fluorine's high electronegativity, it has more power to gain electron <b> and more reactive</b>. Here is a video showing how aggressive fluorine reacts with charcoal:</p>"
+                   + "<p>Due to fluorine's high electronegativity, it has more power to gain electron <b> and is more reactive</b>. Here is a video showing how aggressive fluorine reacts with charcoal:</p>"
                    + "<video src='" + videoF + "' style='" + videoSize + "'controls></video>"
                    + "<p>Video Reference: <a href = https://www.youtube.com/watch?v=TLOFaWdPxB0> Reacting Fluorine with Caesium - First Time on Camera by The Royal Institution</a></p>"
                    + "<p></p>"
