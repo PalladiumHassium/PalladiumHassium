@@ -2,7 +2,7 @@ var Button20 = document.getElementsByClassName("openButton")[19];
 
 var dataAttributes20 = {
     element: "Calcium",
-    image: "20.webp",
+    image: "20.jpg",
     text: "Calcium."
 };
 

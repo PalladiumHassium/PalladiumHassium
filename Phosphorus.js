@@ -2,7 +2,7 @@ var Button15 = document.getElementsByClassName("openButton")[14];
 
 var dataAttributes15 = {
     element: "Phosphorus",
-    image: "15.webp",
+    image: "15.jpg",
     text: "Phosphorus."
 };
 

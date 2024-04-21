@@ -2,7 +2,7 @@ var Button16 = document.getElementsByClassName("openButton")[15];
 
 var dataAttributes16 = {
     element: "Sulfur",
-    image: "16.webp",
+    image: "16.jpg",
     text: "Sulfur."
 };
 
