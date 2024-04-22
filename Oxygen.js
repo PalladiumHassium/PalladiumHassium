@@ -6,7 +6,7 @@ var dataAttributes8 = {
     video_a: "OxygenVideo1.mp4",
     video_b: "OxygenVideo2.mp4",
     video_c: "OxygenVideo3.mp4",
-    text: "Oxygen (<b>symbol: O</b>) is a colorless, odorless and tasteless gas; it is <b>the third diatomic element existing in nature by atomic number</b>. Oxygen is also a gas with <b>poor conductivity of heat and electricity</b>. Oxygen is present in <b>some</b> organic compounds such as methanol and ethanol, and is soluble in some liquids such as water. Additionally, it is a part of needed to keep the fire burning, but oxygen itself does not combust nor burn. Oxygen can be produced through the electric discharge within itself and through the process of action of ultraviolet radiation on itself in the stratosphere (a layer of the earth's atmosphere).</b>"
+    text: "Oxygen (<b>symbol: O</b>) is a colorless, odorless and tasteless gas; it is <b>the third diatomic element existing in nature by atomic number</b>. It is also a gas with <b>poor conductivity of heat and electricity</b>. Oxygen is present in <b>some</b> organic compounds such as methanol and ethanol, and is soluble in some liquids such as water. Additionally, it is needed in order to keep the fire burning, but oxygen itself does not combust nor burn. Oxygen can be produced through the electric discharge within itself and through the process of action of ultraviolet radiation on itself in the stratosphere (a layer of the earth's atmosphere).</b>"
 };
 
 function openPopupWindow8() {
@@ -35,12 +35,12 @@ function openPopupWindow8() {
                    + "<video src='" + video1 + "' style='" + imageSize + "'controls></video>"
                    + "<p>When a steam bum (which is very difficult to be burned under normal conditions due to the low level of oxygen within our atmosphere) that is previously soaked in liquid oxygen, it would burn aggressively <b><u>because the concentration of oxygen of liquid oxygen is almost 4000x than the air in the atmosphere.</u></b></p>"
                    + "<video src='" + video2 + "' style='" + imageSize + "'controls></video>"
-                   + "<p>When the fire reacts with sponge that is also previously soaked with liquid oxygen, <b><u>it would burn into ashes all within a very short amount of time after about 1s – as if it disappears all in a sudden!</u></b></p>"
+                   + "<p>When the fire reacts with sponge that is also previously soaked with liquid oxygen, <b><u>it would burn into ashes all within a very short amount of time after about 2-3s – as if it disappears all in a sudden!</u></b></p>"
                    + "<video src='" + video3 + "' style='" + imageSize + "'controls></video>"
                    + "<p>Videos Reference: <a href = https://www.youtube.com/watch?v=KtR3pC5Kqs0> 另一种形态的氧气，破坏力竟然如此惊人？连铁都能像纸一样被燃烧🔥！<br></a> English Translation for Title: Another Phase of Oxygen is so Destructive? Even Iron Metal can be Burned Like Paper!</p>"
                    + "<p></p>"
                    + "<h2><u>History and Discovery</u></h2>"
-                   + "<p>In 1772, a Swedish chemist named Carl Wilhelm Scheele obtained and discovered oxygen by heating potassium nitrate, mercuric oxide (or mercury (II) oxide, HgO) and many other chemicals. 2 years later, English chemist Joseph Priestley discovered oxygen independently by decomposing mercuric oxide thermally and then published this discovery within the same year – 3 years before Scheele did.</p>"
+                   + "<p>In 1772, a Swedish chemist named Carl Wilhelm Scheele obtained and discovered oxygen by heating potassium nitrate (K<sub>2</sub>NO<sub>3</sub>), mercuric oxide (or mercury (II) oxide, HgO) and many other chemicals. 2 years later, English chemist Joseph Priestley discovered oxygen independently by decomposing mercuric oxide thermally and then published this discovery within the same year – 3 years before Scheele did.</p>"
                    + "<p>Between 1775 and 1780, French chemist Antoine-Laurent Lavoiser interpreted the role oxygen plays in combustion and respiration with a remarkable insight. It discarded the phlogiston theory – which had been accepted up to that point. Furthermore, Lavoisier also noted the element's tendency of forming acid through combining with a variety of substance, then accordingly named the element <b>oxygen</b> – standing for <b>acid former</b>.</p>"
                    + "<p></p>"
                    + "<h2><u>Applications</u></h2>"
