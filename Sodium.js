@@ -11,7 +11,7 @@ function openPopupWindow11() {
   var text = dataAttributes11.text;
   var element = dataAttributes11.element;
   var windowName = "PopupWindow";
-  var windowFeatures = "width=1000,height=800,scrollbars=yes";
+  var windowFeatures = "width=1050,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 
   var popupContent11 = "<div style='display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%; text-align: center;'>"
@@ -28,7 +28,7 @@ function openPopupWindow11() {
                    + "<p>The composition of these two compounds were what the early chemists debating on. It was not until <b>October 1807 that Humphry Davy from Royal Institution in London isolated the element – sodium – from them through electrolysis of sodium hydroxide</b> (The compound was known as 'caustic soda' at that time), just like what he did with potassium prior to that.</p>"
                    + "<p>Note: the process of electrolysis is a process where a substance has a chemical change which is affected through passing electric current.</p>"
                    + "<p>Louis-Josef Gay-Lussac and Louis Jacques Thénard had done an alternative way to isolate the same element in the following year – they heated a mixture of iron filings and caustic soda to red heat.</p>"
-                   + "<p>This element is named after <b>sodanum</b> – the Medieval Latin word for <b>headache remedy</b>; its symbol <b>Na<b> is derived from the Latin word <b>natrium</b> meaning <b>sodium carbonate</b>.</p>"
+                   + "<p>This element is named after <b>sodanum</b> – the Medieval Latin word for <b>headache remedy</b>; its symbol <b>Na</b> is derived from the Latin word <b>natrium</b> meaning <b>sodium carbonate</b>.</p>"
                    + "<p></p>"
                    + "<h2><u>Applications</u></h2>"
                    + "<p>One of the most common applications of sodium is the <b>baking soda</b> – NaHCO<sub>3</sub> – which is usually used in baking purposes and neutralization of acid <b>because this compound is a base</b>.</p>"
