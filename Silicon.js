@@ -3,7 +3,7 @@ var Button14 = document.getElementsByClassName("openButton")[13];
 var dataAttributes14 = {
     element: "Silicon",
     image: "14.jpg",
-    text: "Silicon (<b>symbol: Si</b>) is a hard yet breakable crystalline solid – it s considered to be a very brittle element. It has a bluish-gray metallic structure, and <b>is a natural semiconductor</b> in its purest form – and it could highly increase the intensity of the semiconductor if a small amount of impurity is added. Silicon's chemical behavoir is very similar to metals, and is extremely reactive at higher temperature, but inactive – which happens mostly – at normal (room) temperature. Silicon also has the ability to form alloys if it is at <b>molten state</b> – meaning <b>liquification due to heat, or melted</b>."
+    text: "Silicon (<b>symbol: Si</b>) is a hard yet breakable crystalline solid – it is considered to be a very brittle element. It has a bluish-gray metallic structure, and <b>is a natural semiconductor</b> in its purest form. Silicon could also highly increase the intensity of the semiconductor if a small amount of impurity is added. Silicon's chemical behavoir is very similar to metals, and is extremely reactive at higher temperature, but inactive – which happens mostly – at normal (room) temperature. Silicon also has the ability to form alloys if it is at <b>molten state</b> – meaning <b>liquification due to heat, or melted</b>."
 };
 
 function openPopupWindow14() {
@@ -31,7 +31,7 @@ function openPopupWindow14() {
                    + "<p></p>"
                    + "<h2><u>Applications</u></h2>"
                    + "<p>Silicon is an excellent example of the <b><i>semiconductors</i></b>, hence it is used for making transistor and in computer chips and solar cells. Silicon is also a major part of ceramics and bricks, and widely used in production of fire bricks, molding compounds and mold-releasing agents.</p>"
-                   + "<p>Silicon is also used as a component of ferrosilicon – which is an alloy used in steel industry. Some waterproofing systems also use silicones as a component.</p>"
+                   + "<p>Silicon is also used as a component of ferrosilicon – which is an alloy used in steel industry. Some waterproofing systems also use silicones as a component of them.</p>"
                    + "<p>.</p>"
                    + "</div>";
 
