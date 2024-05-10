@@ -23,7 +23,7 @@ function openHydrogenPopupWindow() {
                    + "<p></p>"
                    + "<h2><u>General Facts</u></h2>"
                    + "<p>" + text + "</p>"
-                   + "<p>It was discovered by an English physicist named Henry Cavendish in 1764. The name of the element means <b>make of water</b>, deriving from two Greek words: hydro (meaning <b>water</b>) and genes (meaning <b>forming</b>) because hydrogen forms water, H<sub>2</sub>O, by burning with oxygen.</p>"
+                   + "<p>It was discovered by an English physicist named Henry Cavendish in 1766. The name of the element means <b>make of water</b>, deriving from two Greek words: hydro (meaning <b>water</b>) and genes (meaning <b>forming</b>) because hydrogen forms water, H<sub>2</sub>O, by burning with oxygen.</p>"
                    + "<p>Hydrogen is a colorless, tasteless, odorless yet <b>highly flammable gas</b> exisitng in nature. It is also a relatively light element, and if the smell of the odrant of hydrogen is detected, the concentration of it may have already been exceeded its flammability limits!</p>"
                    + "<p></p>"
                    + "<h2><u>Historical Event</u></h2>"
