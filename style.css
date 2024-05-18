@@ -65,7 +65,7 @@ body {
 /* Styles for mobile screens */
 @media only screen and (max-width: 767px) {
   body {
-    width: 460px; /* Adjusted width for larger screens */
+    width: 100%; /* Adjusted width for larger screens */
   }
   .openButtons {
     width: 50px;
