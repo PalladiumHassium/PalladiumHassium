@@ -72,8 +72,8 @@ body {
     height: 50px;
   }
   .blank-image {
-    width: 100px; /* No change for larger screens */
-    height: 50px;
+    width: 50px; /* No change for larger screens */
+    height: auto;
   }
   .SpecialImages {
     width: 50px;
