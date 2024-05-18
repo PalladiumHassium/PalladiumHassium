@@ -47,8 +47,6 @@ function openPopupWindow9() {
   var popupWindow = window.open("", windowName, windowFeatures);
   if (popupWindow) {
     popupWindow.document.write(popupContent9);
-  } else {
-    alert("Please allow pop-ups for this website.");
   }
 }
 

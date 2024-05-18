@@ -39,8 +39,6 @@ function openHydrogenPopupWindow() {
   var popupWindow = window.open("", windowName, windowFeatures);
   if (popupWindow) {
     popupWindow.document.write(popupContent1);
-  } else {
-    alert("Please allow pop-ups for this website.");
   }
 }
 // line 26-32: declare the variable "popupWindow" that creates the new window based on line 19-23; and if the popup window was blocked due to the popup blocker, the alert function comes out to say "hey, please do allow the popup window for this website."
