@@ -32,14 +32,38 @@ body {
   background-color: transparent;
   border: none;
   cursor: pointer;
-  width: 67px;
-  height: 67px;
+  width: 50px;
+  height: 50px;
 }
 .blank-image {
-  width: 79px;
-  height: 67px;
+  width: 62px;
+  height: 50px;
 }
 .SpecialImages {
-  width: 67px;
-  height: 67px;
+  width: 50px;
+  height: 50px;
+}
+
+@media only screen and (min-width: 1024px) {
+  body {
+      width: 1500px; /* Adjusted width for larger screens */
+  }
+  .openButtons {
+    width: 50px;
+    height: 50px;
+  }
+  .blank-image {
+      width: 62px; /* No change for larger screens */
+      height: 50px;
+  }
+}
+
+/* Styles for mobile screens */
+@media only screen and (max-width: 767px) {
+  body {
+      width: 750px; /* Adjusted width for smaller screens */
+  }
+  .blank-image {
+      width: 72px; /* Adjusted width for smaller screens */
+  }
 }
