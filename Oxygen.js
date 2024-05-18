@@ -16,7 +16,7 @@ function openPopupWindow8() {
   var video1 = dataAttributes8.video_a;
   var video2 = dataAttributes8.video_b;
   var video3 = dataAttributes8.video_c;
-  var windowName = "PopupWindow";
+  var windowName = "PopupWindow" + new Date().getTime();
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 

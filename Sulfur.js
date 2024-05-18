@@ -14,7 +14,7 @@ function openPopupWindow16() {
   var video2 = dataAttributes16.vid2;
   var text = dataAttributes16.text;
   var element = dataAttributes16.element;
-  var windowName = "PopupWindow";
+  var windowName = "PopupWindow" + new Date().getTime();
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 300px; height: auto;";
   var videoSize = "width: 500px; height: auto;";

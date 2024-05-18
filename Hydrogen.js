@@ -11,7 +11,7 @@ function openHydrogenPopupWindow() {
   var image = HydrogenDataAttributes.image;
   var text = HydrogenDataAttributes.text;
   var element = HydrogenDataAttributes.element;
-  var windowName = "PopupWindow";
+  var windowName = "PopupWindow" + new Date().getTime();
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
   // line 10-16: declare the function "openHydrogenPopupWindow" that controls how the popup window would look like after clicking the hydrogen.png button and defines the size of the image.

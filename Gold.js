@@ -10,7 +10,7 @@ function openPopupWindow64() {
   var image = dataAttributes64.image;
   var text = dataAttributes64.text;
   var element = dataAttributes64.element;
-  var windowName = "PopupWindow";
+  var windowName = "PopupWindow" + new Date().getTime();
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 

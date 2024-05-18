@@ -13,7 +13,7 @@ function openPopupWindow12() {
   var element = dataAttributes12.element;
   var videoMg = dataAttributes12.video_a;
   var videoSize = "width: 500px; height: auto;";
-  var windowName = "PopupWindow";
+  var windowName = "PopupWindow" + new Date().getTime();
   var windowFeatures = "width=1075,height=800,scrollbars=yes";
   var imageSize = "width: 200px; height: auto;";
 
