@@ -32,6 +32,15 @@ function openHydrogenPopupWindow() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>Hydrogen can be dangerous, but it exists everywhere in our daily life! Some common substances involving hydrogen include <b>water</b>, hydrogen peroxide, and table sugar. Hydrogen is also present in the vast majority of the acids – such as the hydrochloric acid – as H<sup>+</sup> ions.</p>"
                    + "<p>Other applications of hydrogen include hydrogen fuel cells, the use of rocket fuel in many space research activities, organic compounds such as methanol – CH<sub>3</sub>OH, synthesis of ammonia (NH<sub>3</sub>), production of nitrogeous fertilizers, and reacting hydrogen with unsaturated vegetable oils to produce the cooking oil.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Hydrogen.” <i>National Center for Biotechnology Information. PubChem Compound Database</i>, U.S. National Library of Medicine, <a href = pubchem.ncbi.nlm.nih.gov/element/Hydrogen> pubchem.ncbi.nlm.nih.gov/element/Hydrogen</a></p>"
+                   + "<p>“Hydrogen.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 5 May 2024, <a href = www.britannica.com/science/hydrogen>www.britannica.com/science/hydrogen.</a></p>"
+                   + "<p>“Green Job Hazards - Hydrogen Fuel Cells: Fire and Explosion.” <i>Occupational Safety and Health Administration</i>, <a href = www.osha.gov/green-jobs/hydrogen/fire-explosion>www.osha.gov/green-jobs/hydrogen/fire-explosion.</a></p>"
+                   + "<p>“Why Do All Acids Have in Common or Chemical Nature of Acids Contain - PW.” <i>Physics Wallah</i>, 31 Dec. 1969, <a href = www.pw.live/chapter-acid-base-and-salt-10/what-do-all-acids-have-in-common-or-chemical-nature-of-acids>www.pw.live/chapter-acid-base-and-salt-10/what-do-all-acids-have-in-common-or-chemical-nature-of-acids.</a></p>"
+                   + "<p>Admin. “Uses of Hydrogen - Properties & Its Reactions with Videos.” <i>BYJUS</i>, BYJU’S, 14 Dec. 2022, <a href = byjus.com/chemistry/uses-of-hydrogen>byjus.com/chemistry/uses-of-hydrogen/.</a></p>"
+                   + "<p>“Dealing with the Aftermath of the Hindenburg Disaster.” <i>Homepage</i>, 6 May 2022, <a href = airandspace.si.edu/stories/editorial/aftermath-hindenburg>airandspace.si.edu/stories/editorial/aftermath-hindenburg.</a></p>"
+                   + "<p>“The Hindenburg Disaster.” <i>Airships.Net</i>, <a href = www.airships.net/hindenburg/disaster/>www.airships.net/hindenburg/disaster/.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 // line 19-23: declare the variable "popupContent1" that defines all three elements for the pop-up window page, the function also controls how the content would look like on the popup window.
