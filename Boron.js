@@ -34,6 +34,12 @@ function openPopupWindow5() {
                    + "<p>Boron existing in food and beverages – unlike beryllium – <b>is generally not harmful to humans</b>. However, <b>the harm can be caused if borax or boric acid – which may exist in cleaning products and pesticides – are consumed</b>!</p>"
                    + "<p><b>If excessive amount of boron is consumed, it would cause nausea, vomiting, diarrhea, rashes, headaches, and convulsions.</b></p>"
                    + "<p><b>If extreme high amount of boron are consumed, it may even cause death!</b></p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Boron.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 3 May 2024, <a href = www.britannica.com/science/boron-chemical-element>www.britannica.com/science/boron-chemical-element.</a></p>"
+                   + "<p>“Boron - Element Information, Properties and Uses: Periodic Table.” <i>Boron - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/5/boron>www.rsc.org/periodic-table/element/5/boron.</a></p>"
+                   + "<p>“Boron Element Facts.” <i>Chemicool</i>, <a href = www.chemicool.com/elements/boron.html>www.chemicool.com/elements/boron.html.</a></p>"
+                   + "<p>Emsley, John. “Boron.” <i>RSC Education</i>, RSC Education, 6 June 2023, <a href = edu.rsc.org/elements/boron/2000018.article>edu.rsc.org/elements/boron/2000018.article.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

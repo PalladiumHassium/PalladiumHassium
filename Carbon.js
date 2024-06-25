@@ -33,6 +33,16 @@ function openPopupWindow() {
                    + "<p>One obvious application of carbon used in the society today is carbon dioxide (CO<sub>2</sub>) – an unwanted 'product' that we do not like in terms of global warming <b>because it is what we refer to as the 'greenhouse gas'</b>. However, carbon dioxide is sometimes useful – it is used in carbonization drinks and fire extinguisher! <br> Other two compounds containing carbon – carbon disulfide (CS<sub>2</sub>) and carbon tetrachloride (CCl<sub>4</sub>) – are notable industrial solvents.</p>"
                    + "<p>Carbon has a crucial role in terms of regulating the physiology of the body. Furthermore, it forms molecules such as nucleic acids, proteins, carbonhydrates and fats within our body. Carbon can also be used to produce energy and useful biomolecules for us to thrive and grow through restructuring in the body.</p>"
                    + "<p>Glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, is the main fuel of the cell – the glucose being consumed would be stored into muscles and the liver when the body does not need to use the compound as the energy source. The stored form of glucose is called glycogen – comprised of many connected glucose molecules. Glycogen would be broken down into glucose and then released into the bloodstream to be used for cell fuels when the body needs energy in an instance where there was no external glucose obtained from food.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Carbon – Characteristics, Properties and Application.” <i>VEDANTU, Vedantu</i>, 17 June 2024, <a href = www.vedantu.com/chemistry/carbon>www.vedantu.com/chemistry/carbon.</a></p>"
+                   + "<p>“Water Treatment Solutions.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/c.htm>www.lenntech.com/periodic/elements/c.htm.</a></p>"
+                   + "<p>“What Is Carbon Black?: Carbon Black 101.” <i>Birla Carbon</i>, 3 Aug. 2023, <a href = www.birlacarbon.com/whats-trending/carbon-black/>www.birlacarbon.com/whats-trending/carbon-black/.</a></p>"
+                   + "<p>“Carbon Element Facts.” <i>Chemicool</i>, <a href = www.chemicool.com/elements/carbon.html>www.chemicool.com/elements/carbon.html.<a></p>"
+                   + "<p>“How Dry Ice Is Made.” <i>CryoCarb</i>, 15 Feb. 2024, <a href = cryocarb.com/how-dry-ice-is-made/>cryocarb.com/how-dry-ice-is-made/.</a></p>"
+                   + "<p>“The Importance of Carbon to Life.” <i>FutureLearn</i>, 25 Oct. 2022, <a href = www.futurelearn.com/info/courses/the-biology-of-bugs-brains-and-beasts/0/steps/68848>www.futurelearn.com/info/courses/the-biology-of-bugs-brains-and-beasts/0/steps/68848.</a></p>"
+                   + "<p>“Definition: Glycogen (for Teens) | Nemours Kidshealth.” <i>KidsHealth</i>, The Nemours Foundation, <a href = kidshealth.org/en/teens/glycogen.html>kidshealth.org/en/teens/glycogen.html.</a></p>"
+                   + "<p>“Carbon Definition, Function & Importance.” <i>Study.Com</i>, Study.com, 19 Jan. 2024, <a href = study.com/learn/lesson/carbon-overview-importance.html>study.com/learn/lesson/carbon-overview-importance.html.</a></p>" 
                    + "<p>.</p>"
                    + "</div>";
 

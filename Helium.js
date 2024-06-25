@@ -33,6 +33,7 @@ function openPopupWindow2() {
                    + "<p>This equation below represents the creation of helium on the sun from the fusion of hydrogen atoms:</p>"
                    + "<img src='HydrogenFusionEquation.png' style='" + imageSize2 + "'>" //credit to Willard's note; also credit to ChatGPT helped me with lines 22-23
                    + "<p>The equation above means that when a hydrogen-2 atom and a hydrogen-3 atom are fused together, it produces <b>a helium-4 atom, a neutron, and ENERGY in the form of ELECTROMAGNETIC WAVES</b> because when hydrogen-2 and hydrogen-3 combine, it produces an enormous amount of energy – and this energy exits the sun as radiation, which covers EMR (electromagnetic radiation) spectrum as mostly infared rays, ultraviolet rays and visible light, as well as a small portion of radio waves, microwaves, x-rays and gamma rays.</p>"
+                   + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
                    + "<p>“This Month in Physics History.” <i>American Physical Society</i>, <a href = www.aps.org/publications/apsnews/201409/physicshistory.cfm>www.aps.org/publications/apsnews/201409/physicshistory.cfm. Accessed 24 June 2024.</a></p>"
                    + "<p>“Water Treatment Solutions.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/he.htm>www.lenntech.com/periodic/elements/he.htm.</a></p>"
