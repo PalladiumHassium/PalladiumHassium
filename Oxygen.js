@@ -46,6 +46,13 @@ function openPopupWindow8() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>There are some more applications of oxygen, including productions of stone and glass products, mining of stone, medicial and biological support, rocket propulsion (pushing the rocket forward), producing chemicals through controlled oxidization, as well as melting, refining and manufacturing steel and other metals.</p>"
                    + "<p>Oxygen, however, as the level of it increases overtime, the atmosphere thickened – blocking some sunlight on the way, hence the lower vaporization as well as less production of water vapors, resulting in decrease in temperature.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Ancient Oxygen Discovery Shakes up History of Life on Earth | CBC News.” <i>CBCnews</i>, CBC/Radio Canada, 26 Sept. 2013, <a href = www.cbc.ca/news/science/ancient-oxygen-discovery-shakes-up-history-of-life-on-earth-1.1867976>www.cbc.ca/news/science/ancient-oxygen-discovery-shakes-up-history-of-life-on-earth-1.1867976.</a></p>"
+                   + "<p>“Properties of Oxygen.” <i>Unacademy</i>, 29 Mar. 2022, <a href = unacademy.com/content/nda/study-material/chemistry/properties-of-oxygen/>unacademy.com/content/nda/study-material/chemistry/properties-of-oxygen/.</a></p>"
+                   + "<p>“Oxygen.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 2 May 2024, <a href = www.britannica.com/science/oxygen>www.britannica.com/science/oxygen.</a></p>"
+                   + "<p>Staff. <i>How Oxygen Levels Impact the Climate</i>, AccuWeather, 26 Feb. 2020, <a href = www.accuweather.com/en/health-wellness/how-oxygen-levels-impact-the-climate/685016>www.accuweather.com/en/health-wellness/how-oxygen-levels-impact-the-climate/685016.</a></p>"
+                   + "<p>“Oxygen (O) - Chemical properties, Health and Environmental effects” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/o.htm>www.lenntech.com/periodic/elements/o.htm.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

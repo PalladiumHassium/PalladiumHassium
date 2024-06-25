@@ -36,7 +36,7 @@ function openPopupWindow() {
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
                    + "<p>“Carbon – Characteristics, Properties and Application.” <i>VEDANTU, Vedantu</i>, 17 June 2024, <a href = www.vedantu.com/chemistry/carbon>www.vedantu.com/chemistry/carbon.</a></p>"
-                   + "<p>“Water Treatment Solutions.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/c.htm>www.lenntech.com/periodic/elements/c.htm.</a></p>"
+                   + "<p>“Carbon (C) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/c.htm>www.lenntech.com/periodic/elements/c.htm.</a></p>"
                    + "<p>“What Is Carbon Black?: Carbon Black 101.” <i>Birla Carbon</i>, 3 Aug. 2023, <a href = www.birlacarbon.com/whats-trending/carbon-black/>www.birlacarbon.com/whats-trending/carbon-black/.</a></p>"
                    + "<p>“Carbon Element Facts.” <i>Chemicool</i>, <a href = www.chemicool.com/elements/carbon.html>www.chemicool.com/elements/carbon.html.<a></p>"
                    + "<p>“How Dry Ice Is Made.” <i>CryoCarb</i>, 15 Feb. 2024, <a href = cryocarb.com/how-dry-ice-is-made/>cryocarb.com/how-dry-ice-is-made/.</a></p>"
