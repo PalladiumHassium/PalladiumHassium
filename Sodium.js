@@ -35,6 +35,18 @@ function openPopupWindow11() {
                    + "<p>Sodium metal is also used for producing sodium cyanide, sodium peroxide and sodium hydride:</p>"
                    + "<p><b>Sodium cyanide</b> is used for extracting gold and silver from ore, chemical manufacturing, and fumigation – meaning removing pests from a place. <br> <b>Sodium peroxide</b> is usually used as a bleaching product, disinfectant (chemical that kills bacteria), labratory chemical and production of other chmicals. <br> <b>Sodium hydride</b> is commonly used for production of soaps, paper, explosive products, dyes, petroleum products and rayon.</p>"
                    + "<p>Sodium is an important element in making esters; liquid sodium has been a material as a coolant for nuclear reactors, and sodium vapor is used in streetlights – producing awesome yellow lights.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Sodium.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 2 June 2024, <a href = www.britannica.com/science/sodium>www.britannica.com/science/sodium.</a></p>"
+                   + "<p>Admin. “What Is Sodium - Uses, Physical & Chemical Properties of Sodium.” <i>BYJUS</i>, BYJU’S, 27 July 2022, <a href = byjus.com/chemistry/sodium>byjus.com/chemistry/sodium.</a></p>"
+                   + "<p>“Sodium - Element Information, Properties and Uses: Periodic Table.” <i>Sodium - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/11/sodium>www.rsc.org/periodic-table/element/11/sodium. 2024.</a></p>"
+                   + "<p>“Electrolysis.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 31 May 2024, <a href = www.britannica.com/science/electrolysis>www.britannica.com/science/electrolysis.</a></p>"
+                   + "<p>“The Element Sodium.” <i>It’s Elemental - The Element Sodium</i>, <a href = education.jlab.org/itselemental/ele011.html>education.jlab.org/itselemental/ele011.html.</a></p>"
+                   + "<p>“Health Benefits of Baking Soda and Lemon Juice.” <i>Main Street Dental</i>, 4 Oct. 2019, <a href = mainstreetdental.com.au/health-benefits-of-baking-soda-and-lemon-juice>mainstreetdental.com.au/health-benefits-of-baking-soda-and-lemon-juice.</a></p>"
+                   + "<p>Transport Canada. “Acid/Base Concept.” <i>Transport Canada</i>, Gouvernement du Canada, 16 Sept. 2011, <a href = tc.canada.ca/en/dangerous-goods/canutec/acid-base-concept>tc.canada.ca/en/dangerous-goods/canutec/acid-base-concept.</a></p>"
+                   + "<p>“Sodium Cyanide: Systemic Agent.” <i>Centers for Disease Control and Prevention</i>, Centers for Disease Control and Prevention, 12 May 2011, <a href = www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html>www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750036.html.</a></p>"
+                   + "<p>“Sodium Hydroxide.” <i>Centers for Disease Control and Prevention</i>, Centers for Disease Control and Prevention, 6 July 2022, <a href = www.cdc.gov/niosh/topics/sodium-hydroxide/default.html>www.cdc.gov/niosh/topics/sodium-hydroxide/default.html.</a></p>"
+                   + "<p>“Hazardous Substance Fact Sheet.” <i>New Jersey Department of Health and Senior Services, New Jersey Department of Health and Senior Services, <a href = nj.gov/health/eoh/rtkweb/documents/fs/1718.pdf >nj.gov/health/eoh/rtkweb/documents/fs/1718.pdf.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

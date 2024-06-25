@@ -45,6 +45,11 @@ function openPopupWindow13() {
                    + "<p><b><i><u>High aluminum concentration also affect birds and other animals in these ways:</u></i></b> <br> <b>Consuming contaminated prays</b> – which can lead to thinning eggshell and low birthweights. <br> <b>Breathing aluminum through air</b> – which may cause lung problems, weight loss and decline in activity.</p>"
                    + "<p>A sad truth: high concentrations fo aluminum can also be found in groundwater and acidified soils – not just in acidified lakes and air! When the strong indications of aluminum is located in groundwater, it can damage roots of trees as well!</p>"
                    + "<p><b><i><u>In summary, although aluminum can ben a useful and a desirable material, it is similar to beryllium – an eco-unfriendly material.</u></i></b></p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>Spira, Natalie. “What Are the Major Properties of Aluminum?” <i>Kloeckner Metals Corporation</i>, 17 June 2024, <a href = www.kloecknermetals.com/blog/what-are-the-major-properties-of-aluminum/>www.kloecknermetals.com/blog/what-are-the-major-properties-of-aluminum/.</a></p>"
+                   + "<p>“Aluminum Element Facts.” <i>Chemicool, Chemicool</i>, <a href = www.chemicool.com/elements/aluminum.html>www.chemicool.com/elements/aluminum.html.</a></p>"
+                   + "<p>“Aluminum (Al) - Chemical Properties, Health and Environmental Effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/al.htm>www.lenntech.com/periodic/elements/al.htm.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

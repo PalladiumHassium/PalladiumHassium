@@ -41,6 +41,12 @@ function openPopupWindow12() {
                    + "<p>Car seats in automobiles are also made with magnesium metal due to its favorable stiffness and lightweight so that the fuel can make the car run in a more efficient way.</p>"
                    + "<p>Also, due to the brightness that <b>magnesium metal (NOT MAGNESIUM COMPOUNDS!)</b> creates when in contact with the fire flame, <b>it is commonly used in fireworks – enhancing visual displays of them.</b></p>"
                    + "<p>Some more applications of magnesium alloys include aircraft, spacecraft, machinery, portable tools, laptop cases, power tool kits and household appliances.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Is It True That Magnesium Is a Good Conductor of Heat and Hence, It Is Difficult to Hold It with Bare Fingers?” <i>Infinity Learn by Sri Chaitanya</i>, <a href = infinitylearn.com/surge/question/chemistry/is-it-true-that-magnesium-is-a-good-conductor-of-heat-and-he/>infinitylearn.com/surge/question/chemistry/is-it-true-that-magnesium-is-a-good-conductor-of-heat-and-he/.</a></p>"
+                   + "<p>“Electrical Conductors.” <i>Lunarpedia</i>, <a href = lunarpedia.org/w/Electrical_Conductors>lunarpedia.org/w/Electrical_Conductors.</a></p>"
+                   + "<p>“Magnesium: Definition, Composition, Properties, and Applications.” <i>Xometrys RSS</i>, Xometry, 16 Sept. 2023, <a href = www.xometry.com/resources/materials/what-is-magnesium/>www.xometry.com/resources/materials/what-is-magnesium/.</a></p>"
+                   + "<p>“Magnesium.” <i>National Center for Biotechnology Information. PubChem Compound Database</i>, U.S. National Library of Medicine, <a href = pubchem.ncbi.nlm.nih.gov/element/Magnesium>pubchem.ncbi.nlm.nih.gov/element/Magnesium.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 
