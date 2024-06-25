@@ -54,6 +54,16 @@ function openPopupWindow16() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>Sulfur is used as a fungicide – which is used to kill the fungi – and is as well used in black gunpowder to harden the natural rubber. It is also used in producing cement, detergents, pesticides and some gunpowder. Moreover, it is also used in <b>sulfuric acid manufactures – which is the most essential chemical being produced by Western civilizations</b>.</p>"
                    + "<p>Some other applications towards sulfur-based chemicals would be bleaching paper and rubber vulcanizations, and some other uses of sulfur include batteries, fertilizer, oil refining, water processing, and mineral extraction.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Sulfur.” Encyclopædia Britannica, Encyclopædia Britannica, inc., 21 June 2024, www.britannica.com/science/sulfur.</a></p>"
+                   + "<p>“Sulfur - Element Information, Properties and Uses: Periodic Table.” <i>Sulfur - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/16/sulfur>www.rsc.org/periodic-table/element/16/sulfur.</a></p>"
+                   + "<p>“7 Foods High in Sulfur and Why You Need It.” <i>WebMD</i>, WebMD, <a href = www.webmd.com/diet/foods-high-in-sulfur>www.webmd.com/diet/foods-high-in-sulfur.</a></p>"
+                   + "<p>“Sulfur (S) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification, <a href = www.lenntech.com/periodic/elements/s.htm>www.lenntech.com/periodic/elements/s.htm.</a></p>"
+                   + "<p>“Reactions of Iron with Sulfur, Zinc with Sulfur.” <i>Chemistry Comes Alive! </i>, <a href = www.chemedx.org/JCESoft/jcesoftSubscriber/CCA/CCA3/MAIN/FEZNSUL/PAGE1.HTM>www.chemedx.org/JCESoft/jcesoftSubscriber/CCA/CCA3/MAIN/FEZNSUL/PAGE1.HTM.</a></p>"
+                   + "<p>“Unexpected Findings Change the Picture of Sulfur on the Early Earth.” <i>California Institute of Technology</i>, <a href = www.caltech.edu/about/news/unexpected-findings-change-picture-sulfur-early-earth-44407>www.caltech.edu/about/news/unexpected-findings-change-picture-sulfur-early-earth-44407.</a></p>"
+                   + "<p>“Sulfur.” <i>National Center for Biotechnology Information. PubChem Compound Database</i>, U.S. National Library of Medicine, <a href = pubchem.ncbi.nlm.nih.gov/element/Sulfur>pubchem.ncbi.nlm.nih.gov/element/Sulfur.</a></p>"
+                   + "<p>Admin. “Sulfur - Uses of Sulfur, Facts & Chemical Properties with Faqs.” <i>BYJUS</i>, BYJU’S, 1 Aug. 2022, <a href = byjus.com/chemistry/sulfur>byjus.com/chemistry/sulfur.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

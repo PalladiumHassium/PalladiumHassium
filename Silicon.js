@@ -32,6 +32,11 @@ function openPopupWindow14() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>Silicon is an excellent example of the <b><i>semiconductors</i></b>, hence it is used for making transistor and in computer chips and solar cells. Silicon is also a major part of ceramics and bricks, and widely used in production of fire bricks, molding compounds and mold-releasing agents.</p>"
                    + "<p>Silicon is also used as a component of ferrosilicon – which is an alloy used in steel industry. Some waterproofing systems also use silicones as a component of them.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Silicon - Occurrence, Physical and Chemical Properties and Uses.” <i>VEDANTU</i>, Vedantu, 17 June 2024, <a href = www.vedantu.com/chemistry/silicon>www.vedantu.com/chemistry/silicon.</a></p>"
+                   + "<p>“Silicon Element Facts.” <i>Chemicool</i>, Chemicool, <a href = www.chemicool.com/elements/silicon.html>www.chemicool.com/elements/silicon.html.</a></p>"
+                   + "<p>Admin. “Uses of Silicon (SI) - Chemical Properties of Silicon & Polymers of Silicon.” <i>BYJUS</i>, BYJU’S, 27 July 2022, <a href = byjus.com/chemistry/silicon>byjus.com/chemistry/silicon.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

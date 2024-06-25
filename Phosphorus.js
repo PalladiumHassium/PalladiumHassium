@@ -44,6 +44,15 @@ function openPopupWindow15() {
                    + "<p>As human beings, <b>we consume approximately 1g of phosphate per day</b>, and <b>about 750g of phosphate is stored in our bodies since our bones and teeth of our body are mainly comprised of calcium phosphate</b>.</p>"
                    + "<p>However, if phosphate is overly used from fertilizers and detergents, it may cause pollution in rivers and lakes due to the rapid growth of algae, as mentioned previously. The algae would then block out the light, preventing water from performing photosynthesis, and the oxygen dissoved in water would soon get used up, then the lake would die.</p>"
                    + "<p></p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Nitrogen & Phosphorus | Physical & Chemical Properties.” <i>Study.com</i>, Study.com, <a href = study.com/learn/lesson/nitrogen-phosphorus-physical-chemical-properties.html>study.com/learn/lesson/nitrogen-phosphorus-physical-chemical-properties.html.</a></p>"
+                   + "<p>“Melting and Boiling Points down Group 2.” <i>Creative Chemistry</i>, 23 Oct. 2023, <a href = www.creative-chemistry.org.uk/alevel/core-inorganic/periodicity/trends9>www.creative-chemistry.org.uk/alevel/core-inorganic/periodicity/trends9.</a></p>"
+                   + "<p>“Phosphorus.” <i>National Center for Biotechnology Information. PubChem Compound Database</i>, U.S. National Library of Medicine, <a href = pubchem.ncbi.nlm.nih.gov/element/Phosphorus>pubchem.ncbi.nlm.nih.gov/element/Phosphorus.</a></p>"
+                   + "<p>“Water Treatment Solutions.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/p.htm>www.lenntech.com/periodic/elements/p.htm.</a></p>"
+                   +"<p> “Black Phosphorus.” <i>Simply Science</i>, Simply Science, <a href = www.simply.science/images/content/chemistry/metals_and_non_metals/nitrogen_family/conceptmap/Black_phosphorus.html>www.simply.science/images/content/chemistry/metals_and_non_metals/nitrogen_family/conceptmap/Black_phosphorus.html.</a></p>"
+                   + "<p>“Phosphorus.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 31 May 2024, <a href = www.britannica.com/science/phosphorus-chemical-element>www.britannica.com/science/phosphorus-chemical-element.</a></p>"
+                   + "<p>“Phosphorus - Element Information, Properties and Uses: Periodic Table.” Phosphorus - Element Information, <i>Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/15/phosphorus>www.rsc.org/periodic-table/element/15/phosphorus.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 
