@@ -30,6 +30,13 @@ function openPopupWindow10() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>The characteristic of reddish-orange colored of this element are commonly used as the signs for advertisement – which became popularized during the 1920s – in some high-voltage testers, as well as gaseous and <b>fluorscent conduction lamps</b> (lamps that hvae the ability to emit visible lights after absorbing the radiations that are normally not visible. Other applications of this element include lightning arrestors, television tubes, meters tubes and gas lasers.</p>"
                    + "<p>Neon is also used with a combination of different gases or singly in the electronic industry for gas-filled electron tubes. Additionally, helium-neon mixtures are used for marine divers to breathe in the sea because nitrogen at high pressure is more soluble than helium in blood.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Neon - Element Information, Properties and Uses: Periodic Table.” <i>Neon - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/10/neon>www.rsc.org/periodic-table/element/10/neon.</a></p>" 
+                   + "<p>“Neon (Ne) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/ne.htm>www.lenntech.com/periodic/elements/ne.htm.</a></p>"
+                   + "<p>“Neon.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 6 June 2024, <a href = www.britannica.com/science/neon-chemical-element>www.britannica.com/science/neon-chemical-element.</a></p>"
+                   + "<p>Radleys. “Neon - the Element of the Month.” <i>Radleys</i>, 26 Nov. 2021, <a href = www.radleys.com/blog/the-element-of-the-month-neon/>www.radleys.com/blog/the-element-of-the-month-neon/.</a></p>"
+                   + "<p>Admin. “Neon (Ne) - Uses of Neon, Chemical Properties, Videos with Faqs of Neon.” <i>BYJUS</i>, BYJU’S, 3 Aug. 2022, <a href = byjus.com/chemistry/neon/>byjus.com/chemistry/neon/.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 

@@ -41,6 +41,12 @@ function openPopupWindow9() {
                    + "<p>Historically speaking, however, no one wanted to produce fluorine commercially due to its lack of acceptance prior to WWII; however, the fluorine production had been growing exponentially during the war – thanks to scientists that time, who discovered that uranium hexafluoride (HF<sub>6</sub>) possesses nuclear properties which was able to be used as a source of energy.</p>"
                    + "<p>Other applications of fluorine include calcium fluoride, fluorspar (same as the one mentioned above), used in making lenses to focus on infared light; hydrogen fluoride, HF, commonly used in etching the glasses such as light bulbs.</p>"
                    + "<p>Another application include dichlorodifluoromethane (CF<sub>2</sub>Cl<sub>2</sub>), used in conditioning, refrigeration systems, and in aerosol spray cans. However, this application had been phased out due to the damaging it was causing to the ozone layer of the earth.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Fluorine (F) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/f.htm>www.lenntech.com/periodic/elements/f.htm.</a></p>"
+                   + "<p>“Fluorine.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 16 May 2024, <a href = www.britannica.com/science/fluorine>www.britannica.com/science/fluorine.</a></p>"
+                   + "<p>“Fluorine.” <i>National Center for Biotechnology Information. PubChem Compound Database</i>, U.S. National Library of Medicine, <a href = pubchem.ncbi.nlm.nih.gov/element/Fluorine>pubchem.ncbi.nlm.nih.gov/element/Fluorine.</a></p>"
+                   + "<p>“Chemical Properties of Fluorine.” <i>Unacademy</i>, 19 Apr. 2022, <a href = unacademy.com/content/neet-ug/study-material/chemistry/chemical-properties-of-fluorine/>unacademy.com/content/neet-ug/study-material/chemistry/chemical-properties-of-fluorine/.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
 
