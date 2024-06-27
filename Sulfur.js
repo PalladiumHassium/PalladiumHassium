@@ -56,7 +56,7 @@ function openPopupWindow16() {
                    + "<p>Some other applications towards sulfur-based chemicals would be bleaching paper and rubber vulcanizations, and some other uses of sulfur include batteries, fertilizer, oil refining, water processing, and mineral extraction.</p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
-                   + "<p>“Sulfur.” Encyclopædia Britannica, Encyclopædia Britannica, inc., 21 June 2024, www.britannica.com/science/sulfur.</a></p>"
+                   + "<p>“Sulfur.” Encyclopædia Britannica, Encyclopædia Britannica, inc., 21 June 2024, <a href = www.britannica.com/science/sulfur>www.britannica.com/science/sulfur.</a></p>"
                    + "<p>“Sulfur - Element Information, Properties and Uses: Periodic Table.” <i>Sulfur - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/16/sulfur>www.rsc.org/periodic-table/element/16/sulfur.</a></p>"
                    + "<p>“7 Foods High in Sulfur and Why You Need It.” <i>WebMD</i>, WebMD, <a href = www.webmd.com/diet/foods-high-in-sulfur>www.webmd.com/diet/foods-high-in-sulfur.</a></p>"
                    + "<p>“Sulfur (S) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification, <a href = www.lenntech.com/periodic/elements/s.htm>www.lenntech.com/periodic/elements/s.htm.</a></p>"
