@@ -41,7 +41,7 @@ function openPopupWindow18() {
                    + "<p>“Argon - Element Information, Properties and Uses: Periodic Table.” <i>Argon - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/18/argon>www.rsc.org/periodic-table/element/18/argon.</a></p>"
                    + "<p>“Argon.” <i>Pictures, Stories, and Facts about the Element Argon in the Periodic Table</i>, <a href = periodictable.com/Elements/018/index.html>periodictable.com/Elements/018/index.html.</a></p>"
                    + "<p>“Argon.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 24 May 2024, <a href = www.britannica.com/science/argon-chemical-element>www.britannica.com/science/argon-chemical-element.</a></p>" 
-                   + "<p>“Argon (Ar) - Chemical Properties, Health and Environmental Effects.” <i>Lenntech Water Treatment & Purification</i>, www.lenntech.com/periodic/elements/ar.htm.</a></p>" 
+                   + "<p>“Argon (Ar) - Chemical Properties, Health and Environmental Effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/ar.htm>www.lenntech.com/periodic/elements/ar.htm.</a></p>" 
                    + "<p>“Top Uses of Argon Gas.” <i>Adams Gas</i>, 15 Feb. 2024, <a href = www.adamsgas.co.uk/2018/03/01/top-uses-of-argon-gas/>www.adamsgas.co.uk/2018/03/01/top-uses-of-argon-gas/.</a></p>"
                    + "<p>.</p>"
                    + "</div>";
