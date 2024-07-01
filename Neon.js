@@ -3,7 +3,7 @@ var Button10 = document.getElementsByClassName("openButton")[9];
 var dataAttributes10 = {
     element: "Neon",
     image: "10.png",
-    text: "Neon (<b>symbol: Ne</b>) is a colorless, odorless, and tasteless gas; it <b>does not</b> react with other substances – and so it <b>does not</b> have a significant impact on the environment. Neon is a non-toxic gas; however, <b><u>if it is inhaled at an excessive concentration level, it would cause dizziness, nausea, vomiting, loss of consciousness and even death due to the lack of oxygen.</u></b> The ways leading to death due to suffocation include errors in judgement, confusion or loss of consciousness – which prevents one from self-rescuing. Unconsciousness and death are especially likely to occur instantaneously without any warning if one is situating in a low-xoygen environment."
+    text: "Neon (<b>element symbol: Ne</b>) is a colorless, odorless, and tasteless gas; it <b>does not</b> react with other substances – and so it <b>does not</b> have a significant impact on the environment. Neon is a non-toxic gas; however, <b><u>if it is inhaled at an excessive concentration level, it would cause dizziness, nausea, vomiting, loss of consciousness and even death due to the lack of oxygen.</u></b> The ways leading to death due to suffocation include errors in judgement, confusion or loss of consciousness – which prevents one from self-rescuing. Unconsciousness and death are especially likely to occur instantaneously without any warning if one is situating in a low-xoygen environment."
 };
 
 function openPopupWindow10() {

@@ -4,7 +4,7 @@ var dataAttributes13 = {
     element: "Aluminum",
     image: "13.jpg",
     videoRxn: "AlFe2O3Rxn.mp4",
-    text: "Aluminum (<b>symbol: Al</b>) is a solid, non-magnetic, non-lustrous, and silvery white metal with some bluish tint. Its pure form is a soft metal, but it becomes hardened when it is being tempered and alloyed. Aluminum has a high <b>malleability</b> (meanning that it <b>has an excellent ability to be bent and shaped in various forms</b>) and a high <b>ductility</b> (can be <b>stretched, pulled, or beaten to a very thin form</b>). It is a good conductor of electricity and heat and a corrosive-resistant material; it also has a highly reflective surface. For pure aluminum, it has a melting point of 660 degrees Celsius and a boiling point of 2470 degrees Celsius; however, the melting and evaporating points change when aluminum is alloyed with other materials."
+    text: "Aluminum (<b>element symbol: Al</b>) is a solid, non-magnetic, non-lustrous, and silvery white metal with some bluish tint. Its pure form is a soft metal, but it becomes hardened when it is being tempered and alloyed. Aluminum has a high <b>malleability</b> (meanning that it <b>has an excellent ability to be bent and shaped in various forms</b>) and a high <b>ductility</b> (can be <b>stretched, pulled, or beaten to a very thin form</b>). It is a good conductor of electricity and heat and a corrosive-resistant material; it also has a highly reflective surface. For pure aluminum, it has a melting point of 660 degrees Celsius and a boiling point of 2470 degrees Celsius; however, the melting and evaporating points change when aluminum is alloyed with other materials."
 };
 
 function openPopupWindow13() {

@@ -3,7 +3,7 @@ var Button11 = document.getElementsByClassName("openButton")[10];
 var dataAttributes11 = {
     element: "Sodium",
     image: "11.jpg",
-    text: "Sodium (<b>Symbol: Na</b>) is a <b>very soft white-silvery metal</b>, and is the <b>sixth (6<sup>th</sup>) most abundant element on earth</b>, as well as <b>the most abundant alkali metal (Group IA) on earth</b>. Sodium can be <b>easily cut with knife at room temperature, but it becomes brittle (can be broken easily) at low temperature</b>. Additionally, it <b>conducts heat and electricity well</b>."
+    text: "Sodium (<b>element symbol: Na</b>) is a <b>very soft white-silvery metal</b>, and is the <b>sixth (6<sup>th</sup>) most abundant element on earth</b>, as well as <b>the most abundant alkali metal (Group IA) on earth</b>. Sodium can be <b>easily cut with knife at room temperature, but it becomes brittle (can be broken easily) at low temperature</b>. Additionally, it <b>conducts heat and electricity well</b>."
 };
 
 function openPopupWindow11() {

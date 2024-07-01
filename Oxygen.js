@@ -6,7 +6,7 @@ var dataAttributes8 = {
     video_a: "OxygenVideo1.mp4",
     video_b: "OxygenVideo2.mp4",
     video_c: "OxygenVideo3.mp4",
-    text: "Oxygen (<b>symbol: O</b>) is a colorless, odorless and tasteless gas; it is <b>the third diatomic element existing in nature by atomic number</b>. It is also a gas with <b>poor conductivity of heat and electricity</b>. Oxygen is present in <b>some</b> organic compounds such as methanol and ethanol, and is soluble in some liquids such as water. Additionally, it is needed in order to keep the fire burning, but oxygen itself does not combust nor burn. Oxygen can be produced through the electric discharge within itself and through the process of action of ultraviolet radiation on itself in the stratosphere (a layer of the earth's atmosphere).</b>"
+    text: "Oxygen (<b>element symbol: O</b>) is a colorless, odorless and tasteless gas; it is <b>the third diatomic element existing in nature by atomic number</b>. It is also a gas with <b>poor conductivity of heat and electricity</b>. Oxygen is present in <b>some</b> organic compounds such as methanol and ethanol, and is soluble in some liquids such as water. Additionally, it is needed in order to keep the fire burning, but oxygen itself does not combust nor burn. Oxygen can be produced through the electric discharge within itself and through the process of action of ultraviolet radiation on itself in the stratosphere (a layer of the earth's atmosphere).</b>"
 };
 
 function openPopupWindow8() {

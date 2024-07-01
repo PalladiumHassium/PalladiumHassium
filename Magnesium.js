@@ -4,7 +4,7 @@ var dataAttributes12 = {
     element: "Magnesium",
     image: "12.jpg",
     video_a: "MgFlameRxn.mp4",
-    text: "Magnesium (<b>symbol: Mg</b>) is a <b>silvery white color, flammablemetal</b>; it has a <b>has an excellent stiffness-to-weight and strength-to-weight ratios yet being the lightest structural metal</b>. It is also the eighth (8<sup>th</sup>) most abundant element found on earth, and its conductivity of electricity and heat are similar to aluminum. Some of the <b>compounds involving magnesium</b> are flame-resistant properties – which can, for example, be implemented to what firefighters wear when on task, or any other things to do where the interacting with flame is one of the concerns."
+    text: "Magnesium (<b>element symbol: Mg</b>) is a <b>silvery white color, flammablemetal</b>; it has a <b>has an excellent stiffness-to-weight and strength-to-weight ratios yet being the lightest structural metal</b>. It is also the eighth (8<sup>th</sup>) most abundant element found on earth, and its conductivity of electricity and heat are similar to aluminum. Some of the <b>compounds involving magnesium</b> are flame-resistant properties – which can, for example, be implemented to what firefighters wear when on task, or any other things to do where the interacting with flame is one of the concerns."
 };
 
 function openPopupWindow12() {

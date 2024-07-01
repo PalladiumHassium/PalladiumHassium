@@ -3,7 +3,7 @@ var Button7 = document.getElementsByClassName("openButton")[6];
 var dataAttributes7 = {
     element: "Nitrogen",
     image: "7.jpg",
-    text: "Nitrogen (<b>symbol: N</b>) is the second gaseous diatomic element existing in nature by atomic number – <b>meaning it exists as a molecule, as opposed to just a single atom in nature, as mentioned previously</b>. It is a colorless, odorless, and tasteless gas; it is slightly lighter than air and slightly soluble in water. "
+    text: "Nitrogen (<b>element symbol: N</b>) is the second gaseous diatomic element existing in nature by atomic number – <b>meaning it exists as a molecule, as opposed to just a single atom in nature, as mentioned previously</b>. It is a colorless, odorless, and tasteless gas; it is slightly lighter than air and slightly soluble in water. "
 };
 
 function openPopupWindow7() {

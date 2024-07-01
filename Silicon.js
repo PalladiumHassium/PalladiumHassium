@@ -3,7 +3,7 @@ var Button14 = document.getElementsByClassName("openButton")[13];
 var dataAttributes14 = {
     element: "Silicon",
     image: "14.jpg",
-    text: "Silicon (<b>symbol: Si</b>) is a hard yet breakable crystalline solid – it is considered to be a very brittle element. It has a bluish-gray metallic structure, and <b>is a natural semiconductor</b> in its purest form. Silicon could also highly increase the intensity of the semiconductor if a small amount of impurity is added. Silicon's chemical behavoir is very similar to metals, and is extremely reactive at higher temperature, but inactive – which happens mostly – at normal (room) temperature. Silicon also has the ability to form alloys if it is at <b>molten state</b> – meaning <b>liquification due to heat, or melted</b>."
+    text: "Silicon (<b>element symbol: Si</b>) is a hard yet breakable crystalline solid – it is considered to be a very brittle element. It has a bluish-gray metallic structure, and <b>is a natural semiconductor</b> in its purest form. Silicon could also highly increase the intensity of the semiconductor if a small amount of impurity is added. Silicon's chemical behavoir is very similar to metals, and is extremely reactive at higher temperature, but inactive – which happens mostly – at normal (room) temperature. Silicon also has the ability to form alloys if it is at <b>molten state</b> – meaning <b>liquification due to heat, or melted</b>."
 };
 
 function openPopupWindow14() {

@@ -3,7 +3,7 @@ var Button17 = document.getElementsByClassName("openButton")[16];
 var dataAttributes17 = {
     element: "Chlorine",
     image: "17.jpg",
-    text: "Chlorine (<b>symbol: Cl</b>) is <b>a yello-green gas at room temperature, and has a very sharp odor even at exxtremely low concentration</b>, of which the odor is similar to bleach. It is <b>a relatively reactive element especially with metals</b>, which forms salts as the product of reaction. Chlorine is also <b>another diatomic element existing in nature.</b>Chlorine's <b>boiling point</b> is at <b>-35°C, or -31°F</b>, and has a <b>melting point at -101°C, or -149.8°F</b>. Its density is approximately 13.0 pounds per gallon, which converts to 1.56 kilograms per litre, making the element denser than the air."
+    text: "Chlorine (<b>element symbol: Cl</b>) is <b>a yello-green gas at room temperature, and has a very sharp odor even at exxtremely low concentration</b>, of which the odor is similar to bleach. It is <b>a relatively reactive element especially with metals</b>, which forms salts as the product of reaction. Chlorine is also <b>another diatomic element existing in nature.</b>Chlorine's <b>boiling point</b> is at <b>-35°C, or -31°F</b>, and has a <b>melting point at -101°C, or -149.8°F</b>. Its density is approximately 13.0 pounds per gallon, which converts to 1.56 kilograms per litre, making the element denser than the air."
 };
 
 function openPopupWindow17() {

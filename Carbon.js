@@ -3,7 +3,7 @@ var Button6 = document.getElementsByClassName("openButton")[5];
 var dataAttributes6 = {
     element: "Carbon",
     image: "6.jpg",
-    text: "Carbon (<b>symbol: C</b>) is present in all organic compounds. It is <b>highly unreactive</b> under normal conditions, but it has an ability to bond with multiple elements <b>covalently</b> (bonding by <b>sharing electrons</b>) – including hydrogen, another element being present in most of the organic compounds. Carbon is also <b>insoluble in water</b>, usually used in <b>organic solvent</b>, and is an inert substance. Furthermore, it has a number of allotropes – meaning <b>different structural form</b> – examples include graphite and diamond."
+    text: "Carbon (<b>element symbol: C</b>) is present in all organic compounds. It is <b>highly unreactive</b> under normal conditions, but it has an ability to bond with multiple elements <b>covalently</b> (bonding by <b>sharing electrons</b>) – including hydrogen, another element being present in most of the organic compounds. Carbon is also <b>insoluble in water</b>, usually used in <b>organic solvent</b>, and is an inert substance. Furthermore, it has a number of allotropes – meaning <b>different structural form</b> – examples include graphite and diamond."
 };
 
 function openPopupWindow() {

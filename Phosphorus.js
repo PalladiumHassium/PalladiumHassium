@@ -3,7 +3,7 @@ var Button15 = document.getElementsByClassName("openButton")[14];
 var dataAttributes15 = {
     element: "Phosphorus",
     image: "15.jpg",
-    text: "Phosphorus (<b>symbol: P</b>) has three main allotropic forms: white (or yellow), black (or violet), and red. Ordinary phosphorus has a color of waxy white solid, and it is <b>colorless</b> and <b>transparent</b> when it is in its <b>pure form</b>. Phosphorus is <b>insoluble in water</b>, but is <b>soluble in carbon disulfide, CS<sub>2</sub></b>."
+    text: "Phosphorus (<b>element symbol: P</b>) has three main allotropic forms: white (or yellow), black (or violet), and red. Ordinary phosphorus has a color of waxy white solid, and it is <b>colorless</b> and <b>transparent</b> when it is in its <b>pure form</b>. Phosphorus is <b>insoluble in water</b>, but is <b>soluble in carbon disulfide, CS<sub>2</sub></b>."
 };
 
 function openPopupWindow15() {
