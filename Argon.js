@@ -3,7 +3,7 @@ var Button18 = document.getElementsByClassName("openButton")[17];
 var dataAttributes18 = {
     element: "Argon",
     image: "18.jpg",
-    text: "Argon (<b>element symbol: Ar</b>) is a <b>noble gas</b> – meaning it is <b>an inert gas and is highly unreactive</b>. It is a colorless and odorless gas and is approximately same solubility as oxygen, and is 2.5 times more soluble in water than nitrogen. It is the <b>third-most abundant in earth's atmosphere and is the most abundant in earth's crust.</b>"
+    text: "Argon (<b>element symbol: Ar</b>) is a <b>noble gas</b> – meaning it is <b>inert and highly unreactive</b>. It is a colorless and odorless gas and is approximately as soluble as oxygen, but is 2.5 times more soluble in water than nitrogen. It is the <b>third-most abundant in earth's atmosphere and is the most abundant in earth's crust.</b>"
 };
 
 function openPopupWindow18() {
@@ -21,21 +21,20 @@ function openPopupWindow18() {
                    + "<p></p>"
                    + "<h2><u>Discovery</u></h2>"
                    + "<p>Despite argon's abundance on earth, <b>it was not discovered until 1894 by Rayleigh and William Ramsay when they did the initial separation of the element from the liquid air.</b> In fact, in one whole century prior to that in 1785, Henry Cavendish had noticed that there was approximately 1% of the the air that did not seem to react even under most extreme conditions – and that was argon.</p>"
-                   + "<p>The discovery of argon was a result of the attempt of explaining the reason why the density of nitrogen extracted from the air is different from the product of decomposition of ammonia.</p>"
-                   + "<p>And so, Ramsay performed the experiment involving the removal of nitrogen from the gas obtained from the air through reacting it with magnesium, forming solid magnesium nitride. Consequently, he was left with a gas that just would not react – he then saw new groups of red and green lines when he examined the spectrum of argon, confirming that it was a new element.</p>"
+                   + "<p><b>The discovery of argon was a result of the attempt of explaining the reason why the density of nitrogen extracted from the air is different from the product of decomposition of ammonia.</b></p>"
+                   + "<p>And so, Ramsay performed the experiment involving the removal of nitrogen from the gas obtained from the air through reacting it with magnesium, forming solid magnesium nitride. <b>Consequently, he was left with a gas that just would not react</b> – he then saw new <b>groups of red and green lines</b> when he examined the spectrum of argon, <b>confirming that it was a new element.</b></p>"
                    + "<p>The element was named after the Greek word <b>lazy</b> – implying how reactive this element is.</p>"
                    + "<p></p>"
                    + "<h2><u>Health Effects</u></h2>"
-                   + "<p>Upon the inhalation of the gas, <b>it could cause any of the following: dizziness, dullness, headache, and suffocation. If the gas was contacted with skin and eyes, it could cause forstbite.</b></p>"
+                   + "<p>Upon the inhalation of the gas, it could cause any of the following: <b>dizziness, dullness, headache, and suffocation. If the gas was contacted with skin and eyes, it could cause forstbite.</b></p>"
                    + "<p>If excessive concentration is inhaled, <b>it could even result into nausea, vomiting, loss of consciousness, and death.</b></p>"
                    + "<p></p>"
                    + "<h2><u>Applications</u></h2>"
-                   + "<p>Argon is one of the elements used in <b>welding industry since it provides its inertness, preventing the welded metals from oxidizing.</b> Argon is furthermore used within neon tubes in lighting: as electricity passes through the element, it produces a <b>purple-blue glow and emits light at a much lower voltage as it charges.</b></p>"
-                   + "<p><b><u>Healthcare Industry:</u></b> it can be used as argon lasers which is used for <b>treating retinal detachment and retinal phototherapy for the patients with diabetes.</b> It is also used in <b>surgeries for destroying tumors, as well as weld arteries.</b></p>"
-                   + "<p>It is highly capabile of targeting areas with an excellent precision, <b>making argon lasers widely used in medical field.</b></p>"
-                   + "<p>Argon is moreover used in <b>food and drink industries:</b> it is added to wine barrels to replace the air, <b>preventing the wine from souring and oxidizing.</b> Argon is also especially popularly used within <b>producing titanium and special alloys.</b></p>"
-                   + "<p>As well, it is used for <b>thermal insulation in energy efficient windows</b>, which is more commonly seen in the UK; it is also used in scuba diving – due to its inertness and its low thermal conductivity.</p>"
-                   + "<p>Some other useful applications of argon include <b>refrigeration, fire-extinguishing, spectroscopy, airbag inflation, fluorescent glow starters, cryosurgery</b>; it is also used as the <b>carrier gas in cinematography and the atmosphere to grow crystals.</b></p>"
+                   + "<p>Argon is one of the elements used in <b>welding industry since it provides its inertness, preventing the welded metals from oxidizing.</b> Argon is furthermore used within neon tubes in lighting: as the electricity passes through the Ar gas, it produces a <b>purple-blue glow and emits light at a much lower voltage as it charges.</b></p>"
+                   + "<p><b><u>Healthcare Industry:</u></b> it can be used as argon lasers which is used for <b>treating retinal detachment and retinal phototherapy for the patients with diabetes.</b> It is also used in <b>surgeries for destroying tumors, as well as welding arteries.</b> Due to its high capability of targeting areas with an excellent precision, <b>this advantage allowed argon lasers to be widely used in medical field.</b></p>"
+                   + "<p>Argon is moreover used in <b>food and drink industries:</b> it is added to wine barrels to replace the air, <b>preventing the wine from souring and oxidizing.</b> It is also popularly used within <b>producing titanium and special alloys.</b></p>"
+                   + "<p>As well, the gas is used for <b>thermal insulation in energy efficient windows</b>, which is more commonly seen in the UK; it is also used in scuba diving – due to its inertness and its low thermal conductivity.</p>"
+                   + "<p>Some other useful applications of argon include <b>refrigeration, fire-extinguishing, spectroscopy, airbag inflation, fluorescent glow starters, and cryosurgery</b>; it is also used as the <b>carrier gas in cinematography and the atmosphere to grow crystals.</b></p>"
                    + "<p>The argon ion laser is, too, used in <b>high-speed printing, holography, laser shows and microscopy.</b></p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
