@@ -37,7 +37,7 @@ function openPopupWindow8() {
                    + "<video src='" + video2 + "' style='" + imageSize + "'controls></video>"
                    + "<p>When the fire reacts with sponge that is also previously soaked with liquid oxygen, <b><u>it would burn into ashes all within a very short amount of time after about 2-3s – as if it disappears all in a sudden!</u></b></p>"
                    + "<video src='" + video3 + "' style='" + imageSize + "'controls></video>"
-                   + "<p>Videos Reference: <a href = https://www.youtube.com/watch?v=KtR3pC5Kqs0> 另一种形态的氧气，破坏力竟然如此惊人？连铁都能像纸一样被燃烧🔥！<br></a> English Translation for Title: Another Phase of Oxygen is so Destructive? Even Iron Metal can be Burned Like Paper!</p>"
+                   + "<p>Videos Reference: <a href = https://www.youtube.com/watch?v=KtR3pC5Kqs0> 另一种形态的氧气，破坏力竟然如此惊人？连铁都能像纸一样被燃烧🔥！by 这不科学啊<br></a> English Translation for Title: Another Phase of Oxygen is so Destructive? Even Iron Metal can be Burned Like Paper!</p>"
                    + "<p></p>"
                    + "<h2><u>History and Discovery</u></h2>"
                    + "<p>In 1772, a Swedish chemist named Carl Wilhelm Scheele obtained and discovered oxygen by heating potassium nitrate (K<sub>2</sub>NO<sub>3</sub>), mercuric oxide (or mercury (II) oxide, HgO) and many other chemicals. 2 years later, English chemist Joseph Priestley discovered oxygen independently by decomposing mercuric oxide thermally and then published this discovery within the same year – 3 years before Scheele did.</p>"
