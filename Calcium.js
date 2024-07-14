@@ -39,6 +39,15 @@ function openPopupWindow20() {
                    + "<p>Calcium is also widely in <b>food industry</b>, which include <b>calcium gluconate</b> – which is a crucial food additive. It is also used in <b>dairy manufacture</b>, which is used as a <b>fertilizer ingredient</b> and as a <b>supplement in animal feeds</b>. It is as well as used in <b>mineral supplements and toothpaste</b> in this area of applications.</p>"
                    + "<p>As well, calcium is used in the <b>insectides and rodenticides</b> – they involve <b>calcium arsenate</b> and <b>calcium phosphide</b> respectively.</p>"
                    + "<p>Some other applications of the calcium containing compounds can be <b>fireworks, cement and mortar, blackboard chalk, cosmetics, acetylene gas, plastics, and paints</b>.</p>"
+                   + "<p></p>"
+                   + "<h2><u>Bibliography</u></h2>"
+                   + "<p>“Properties and Applications of Calcium (Ca).” <i>AZoM</i>, 11 Jan. 2023, <a href = www.azom.com/article.aspx?ArticleID=9098>www.azom.com/article.aspx?ArticleID=9098.</a></p>"
+                   + "<p>Malmquist, Sarah, and Kristina Prescott. “The Periodic Table.” <i>Human Biology 2nd Edition</i>, <a href = open.lib.umn.edu/humanbiology2e/chapter/7-1-geological-time/>open.lib.umn.edu/humanbiology2e/chapter/7-1-geological-time/.</a></p>" 
+                   + "<p>“Calcium in Diet: Medlineplus Medical Encyclopedia.” <i>MedlinePlus</i>, U.S. National Library of Medicine, <a href = medlineplus.gov/ency/article/002412.htm>medlineplus.gov/ency/article/002412.htm.</a></p>"
+                   + "<p>“Office of Dietary Supplements - Calcium.” <i>NIH Office of Dietary Supplements</i>, U.S. Department of Health and Human Services, <a href = ods.od.nih.gov/factsheets/Calcium-Consumer>ods.od.nih.gov/factsheets/Calcium-Consumer.</a></p>" 
+                   + "<p>“Calcium - Element Information, Properties and Uses: Periodic Table.” <i>Calcium - Element Information, Properties and Uses | Periodic Table</i>, <a href = www.rsc.org/periodic-table/element/20/calcium>www.rsc.org/periodic-table/element/20/calcium.</a></p>"
+                   + "<p>“Davy’s Elements (1805-1824): Chemistry.” <i>Chemistry | University of Waterloo</i>, 11 June 2024, <a href = uwaterloo.ca/chemistry/community-outreach/timeline-of-elements/davys-elements-1805-1824>uwaterloo.ca/chemistry/community-outreach/timeline-of-elements/davys-elements-1805-1824.</a></p>" 
+                   + "<p>.</p>"
                    + "</div>";
 
   var popupWindow = window.open("", windowName, windowFeatures);
