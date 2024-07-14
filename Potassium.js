@@ -5,7 +5,7 @@ var dataAttributes19 = {
     image: "19.JPG",
     RxnVid1: "YellowRxn1.mp4",
     RxnVid2: "YellowRxn2.mp4",
-    text: "Potassium (<b>element symbol: K</b>) is a soft and white metal, a good conductor of both heat and electricity, and has a low melting point. <b>It is an extremely reactive element as it is an alkali metal like lithium and sodium.</b> The vapor of potassium is <b>green</b>, which makes the flame lavender color."
+    text: "Potassium (<b>element symbol: K</b>) is a soft and white metal and a good conductor of both heat and electricity; it has a low melting point. <b>It is an extremely reactive element because it is an alkali metal like lithium and sodium.</b> The vapor of potassium is <b>green</b>, which makes the flame lavender color."
 };
 
 function openPopupWindow19() {
@@ -30,8 +30,8 @@ function openPopupWindow19() {
                    + "<h2><u>Natural Abundance</u></h2>"
                    + "<p>Potassium is the <b>seventh</b> most abundant element in the crust of the earth, which constitutes 2.6% of its mass.</p>"
                    + "<p>It is also estimated that KCl, potassium chloride, takes up 1.7% of the content of the Dead Sea. Furthermore, the waste liquors from some certain saltworks could be containing as much as <b>40g/L of potassium chloride</b>. Most of the potassium is present in igneous rocks, shale, and sediment in minerals; examples include muscovite and orthoclase feldspar, which are insoluble in water.</p>"
-                   + "<p>Most commercial potassium compounds, which are often called potash, are taken through electrolysis from the soluble potassium-containing compounds. Some examples include carnallite, sylvide (KCl), and langbenitie.</p>"
-                   + "<p><b>Potassium is also essential to almost all living things</b> – which we, as human biengs, have approximately 120g in our body, mainly in the brain, the muscles, and the red blood cells.</p>"
+                   + "<p>Most commercial potassium compounds, often called potash, are obtained through the process of electrolysis from the soluble potassium-containing compounds. Some examples include carnallite, sylvide (KCl), and langbenitie.</p>"
+                   + "<p><b>Potassium is also essential to almost all living things</b> – which we, as human beings, have approximately 120g in our body; it is mainly in our brain, muscles, and red blood cells.</p>"
                    + "<p></p>"
                    + "<h2><u>Discovery</u></h2>"
                    + "<p>In pre-historic times, some potassium-containing salts – including saltpetre (potassium nitrate), alum (potassium aluminum sulfate), and potash (potassium carbonate) have been known. Some historical applications of these types of material include gunpowder, dyeing and soap-making.</p>"
@@ -39,8 +39,8 @@ function openPopupWindow19() {
                    + "<p>Humphry Davy also noted that the globules of potassium were moving around quickly on the surface, burning lavender-colored flame when they were dropped into water.</p>"
                    + "<p></p>"
                    + "<h2><u>Reaction Time!</u></h2>"
-                   + "<p>One of the most interesting involving potassium is <b>when potassium iodide is mixed with lead (IV) nitrate – two substances that beakers of transparent liquid are mixed together, they create something interesting!</b></p>"
-                   + "<p>Here is a balanced chemical formula of this reaction: Pb(NO<sub>3</sub>)<sub>2</sub>(aq) + 2KI (aq) → PbI<sub>2</sub>(s) ( ↓ ) + 2KNO<sub>3</sub>(aq)</p>"
+                   + "<p>One of the most interesting involving potassium is <b>when potassium iodide is mixed with lead (IV) nitrate – when the two beakers of transparent liquid are mixed together, they create something really fascinating!</b></p>"
+                   + "<p>Here is a balanced chemical formula of this reaction: Pb(NO<sub>3</sub>)<sub>2(aq)</sub> + 2KI <sub>(aq)</sub> → PbI<sub>2(s)</sub> ( ↓ ) + 2KNO<sub>3(aq)</sub></p>"
                    + "<p></p>"
                    + "<video src='" + video1 + "' style='" + videoSize + "'controls></video>"
                    + "<p></p>"
@@ -51,8 +51,8 @@ function openPopupWindow19() {
                    + "<p></p>"
                    + "<h2><u>Applications</u></h2>"
                    + "<p>Potassium is rarely used in its elemental or metallic form due to its high reactivity. In other words, it is more widely used as compounds with other elements for its real life applications.</p>"
-                   + "<p>For instance, it can be used as a reducing agent in organic chemistry; the alloys of potassium and sodium are used as heat exchange medium: by undergoing some special chemical reactions, it can result into generating electricity and in nuclear reactors.</p>"
-                   + "<p>Potassium is also used in the form of potassium superoxide, KO<sub>2</sub>, for the air in the submarines, mines and space vehicles for regenerating oxygen for them to breathe.</p>"
+                   + "<p>For instance, it can be used as a <b>reducing agent in organic chemistry</b>; the alloys of potassium and sodium are used as heat exchange medium: by undergoing some special chemical reactions, it can result into <b>generating electricity and in nuclear reactors</b>.</p>"
+                   + "<p>Potassium is also used in the form of potassium superoxide, KO<sub>2</sub>, for the <b>air in the submarines, mines and space vehicles for regenerating oxygen for them to breathe</b>.</p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
                    + "<p>“Potassium.” <i>Encyclopædia Britannica</i>, Encyclopædia Britannica, inc., 21 June 2024, <a href = www.britannica.com/science/potassium>www.britannica.com/science/potassium.</a></p>" 
