@@ -2,7 +2,7 @@ var Button19 = document.getElementsByClassName("openButton")[18];
 
 var dataAttributes19 = {
     element: "Potassium",
-    image: "19.jpg",
+    image: "https://palladiumhassium.github.io/PalladiumHassium/19.jpg",
     RxnVid1: "YellowRxn1.mp4",
     RxnVid2: "YellowRxn2.mp4",
     text: "Potassium (<b>element symbol: K</b>) is a soft and white metal, a good conductor of both heat and electricity, and has a low melting point. <b>It is an extremely reactive element as it is an alkali metal like lithium and sodium.</b> The vapor of potassium is <b>green</b>, which makes the flame lavender color."
