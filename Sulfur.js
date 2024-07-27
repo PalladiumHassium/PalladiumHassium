@@ -5,7 +5,7 @@ var dataAttributes16 = {
     image: "16.jpg",
     img2: "SulfurIronMixture.png",
     vid2: "FeS_Rxn.mp4",
-    text: "Sulfur (<b>element symbol: S</b>) is a <b>non-metallic chemical element</b> which belongs to the oxygen group – or group 16 – on the periodic table, and it is <b>one of the most reactive</b> elements. The picture above shows the large sulfur pile in Vancouver. This picture was taken in 2010."
+    text: "Sulfur (<b>element symbol: S</b>) is a <b>non-metallic chemical element</b> which belongs to the oxygen group – or group 16 – on the periodic table, and it is <b>one of the most reactive</b> elements. The picture above shows the large sulfur pile in Vancouver, and was taken in 2010."
 };
 
 function openPopupWindow16() {
