@@ -36,7 +36,7 @@ function openPopupWindow20() {
                    + "<h2><u>Applications</u></h2>"
                    + "<p>It is used in several industrial and commercial applications, including <b>a reducing agent in metal extraction and in production of certain industrial metals as an alloying agent</b>; some more applications in this field include <b>decarbonizer, desulfurizer, and deoxidizer</b>.</p>"
                    + "<p>Calcium is also widely used in <b>food industry</b>, which include <b>calcium gluconate</b> – a crucial food additive. It is also used in <b>dairy manufacture</b>, which is used as a <b>fertilizer ingredient</b> and as a <b>supplement in animal feeds</b>. It is as well as used in <b>mineral supplements and toothpaste</b> in this area of applications.</p>"
-                   + "<p>As well, calcium is used in the <b>insectides and rodenticides</b> – they contain <b>calcium arsenate</b> and <b>calcium phosphide</b> respectively.</p>"
+                   + "<p>As well, calcium is used in the <b>insecticides and rodenticides</b> – they contain <b>calcium arsenate</b> and <b>calcium phosphide</b> respectively.</p>"
                    + "<p>Some other applications of the calcium containing compounds can be <b>fireworks, cement and mortar, blackboard chalk, cosmetics, acetylene gas, plastics, and paints</b>.</p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
