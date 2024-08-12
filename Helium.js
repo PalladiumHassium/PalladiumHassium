@@ -38,6 +38,7 @@ function openPopupWindow2() {
                    + "<p>“Helium (He) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/he.htm>www.lenntech.com/periodic/elements/he.htm.</a></p>"
                    + "<p>Williams, Matt. “Who Discovered Helium?” <i>Phys.Org</i>, Phys.org, 15 Mar. 2016, <a href = phys.org/news/2016-03-helium.html>phys.org/news/2016-03-helium.html.</a></p>"
                    + "<p>“Programs: Energy and Minerals: Helium: About Helium.” <i>Bureau of Land Management</i>, <a href = www.blm.gov/programs/energy-and-minerals/helium/about-helium>www.blm.gov/programs/energy-and-minerals/helium/about-helium.</a></p>"
+                   + "<p>“Nuclear fusion in the Sun.” <i>Energy Education</i>, <a href = energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun>energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun</a></p>"
                    + "<p>.</p>"
                    + "</div>";
                    
