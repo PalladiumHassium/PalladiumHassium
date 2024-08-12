@@ -11,8 +11,8 @@ function openPopupWindow2() {
   var text = dataAttributes2.text;
   var element = dataAttributes2.element;
   var windowName = "PopupWindow" + new Date().getTime();
+  var image1 = "Sunfusion2.png";
   var windowFeatures = "width=1000,height=800,scrollbars=yes";
-  var image1 = Sunfusion2.png
   var imageSize1 = "width: 200; height: auto;";
   var imageSize2 = "width: 400; height: auto;";
 
@@ -32,7 +32,8 @@ function openPopupWindow2() {
                    + "<p></p>"
                    + "<h2><u>Fusion on the Sun</u></h2>"
                    + "<p>How is helium related to the sun? Well, it is a product of a series of steps in the nuclear fusion reaction originating from two protons (or <b>hydrogen-1 atoms</b>), or in other words – <b>helium-4 is made after a series of steps of nuclear fusion reaction from two protons, or hydrogen-1 atoms.</b> That reaction creates an enormous amount of energy in the form of heat and light. The image below shows a summary of how this reaction works:</p>"
-                   + "<img src='" + image1 + "' style='" + imageSize1 + "'>"
+                   + "<img src='" + image1 + "' style='" + imageSize2 + "'>"
+                   + "<p>Image source: <a href = energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun>Nuclear fusion in the Sun by Energy Education</a></p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
                    + "<p>“This Month in Physics History.” <i>American Physical Society</i>, <a href = www.aps.org/publications/apsnews/201409/physicshistory.cfm>www.aps.org/publications/apsnews/201409/physicshistory.cfm. Accessed 24 June 2024.</a></p>"
