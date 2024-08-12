@@ -30,9 +30,8 @@ function openPopupWindow2() {
                    + "<p>It was believed that the vast majority of helium-4 atoms – with small amounts of other helium hydrogen and lithium isotopes – were created from Big Bang nucleosyntheses. This event occurred during the time frame of 10 seconds to 20 minutes after the the Big Bang, and it was marked as the creation of other nuclei of hydrogen-1 – the lightest element in this universe.</p>"
                    + "<p></p>"
                    + "<h2><u>Fusion on the Sun</u></h2>"
-                   + "<p>This equation below represents the creation of helium on the sun from the fusion of hydrogen atoms:</p>"
-                   + "<img src='HydrogenFusionEquation.png' style='" + imageSize2 + "'>" //credit to Willard's note; also credit to ChatGPT helped me with lines 22-23
-                   + "<p>The equation above means that when a hydrogen-2 atom and a hydrogen-3 atom are fused together, it produces <b>a helium-4 atom, a neutron, and ENERGY in the form of ELECTROMAGNETIC WAVES</b> because when hydrogen-2 and hydrogen-3 combine, it produces an enormous amount of energy – and this energy exits the sun as radiation, which covers EMR (electromagnetic radiation) spectrum as mostly infared rays, ultraviolet rays and visible light, as well as a small portion of radio waves, microwaves, x-rays and gamma rays.</p>"
+                   + "<p>How is helium related to the sun? Well, it is a product of a series of steps in the nuclear fusion reaction originating from two protons (or <b>hydrogen-1 atoms</b>), or in other words – <b>helium-4 is made after a series of steps of nuclear fusion reaction from two protons, or hydrogen-1 atoms.</b> That reaction creates an enormous amount of energy in the form of heat and light. The image below shows a summary of how this reaction works:</p>"
+                   + + "<img src='" + SunFusion2 + "' style='" + imageSize1 + "'>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
                    + "<p>“This Month in Physics History.” <i>American Physical Society</i>, <a href = www.aps.org/publications/apsnews/201409/physicshistory.cfm>www.aps.org/publications/apsnews/201409/physicshistory.cfm. Accessed 24 June 2024.</a></p>"
