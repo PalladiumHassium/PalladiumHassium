@@ -36,7 +36,7 @@ function openPopupWindow2() {
                    + "<p>Image source: <a href = energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun>Nuclear fusion in the Sun by Energy Education</a></p>"
                    + "<p></p>"
                    + "<h2><u>Bibliography</u></h2>"
-                   + "<p>“This Month in Physics History.” <i>American Physical Society</i>, <a href = www.aps.org/publications/apsnews/201409/physicshistory.cfm>www.aps.org/publications/apsnews/201409/physicshistory.cfm. Accessed 24 June 2024.</a></p>"
+                   + "<p>“This Month in Physics History.” <i>American Physical Society</i>, <a href = www.aps.org/publications/apsnews/201409/physicshistory.cfm>www.aps.org/publications/apsnews/201409/physicshistory.cfm.</a></p>"
                    + "<p>“Helium (He) - Chemical properties, Health and Environmental effects.” <i>Lenntech Water Treatment & Purification</i>, <a href = www.lenntech.com/periodic/elements/he.htm>www.lenntech.com/periodic/elements/he.htm.</a></p>"
                    + "<p>Williams, Matt. “Who Discovered Helium?” <i>Phys.Org</i>, Phys.org, 15 Mar. 2016, <a href = phys.org/news/2016-03-helium.html>phys.org/news/2016-03-helium.html.</a></p>"
                    + "<p>“Programs: Energy and Minerals: Helium: About Helium.” <i>Bureau of Land Management</i>, <a href = www.blm.gov/programs/energy-and-minerals/helium/about-helium>www.blm.gov/programs/energy-and-minerals/helium/about-helium.</a></p>"
