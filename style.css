@@ -1,6 +1,6 @@
 :root {
   --cell: 79px;   /* width of every column */
-  --icon: 67px;   /* size of every element image */
+  --icon: 66px;   /* size of every element image */
 }
 
 body {
