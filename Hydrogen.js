@@ -4,7 +4,7 @@ var HydrogenButton = document.getElementsByClassName("openButton")[0]; // settin
 var HydrogenDataAttributes = {
   element: "Hydrogen",
   image: "1.jpg",
-  text: "Hydrogen (<b>element symbol: H<sub>2</sub></b>) is the first element by atomic number. Its atom consists one electron and one proton. However, it is crucial to know that hydrogen exists as a <b>diatomic molecule</b>  in nature – implying that it <b>ALWAYS</b> exist as in pairs as opposed to just a single atom."
+  text: "Hydrogen (<b>element symbol: H</b>) is the first element by atomic number. Its atom consists one electron and one proton. However, it is crucial to know that hydrogen exists as a <b>diatomic molecule</b>  in nature – implying that it <b>ALWAYS</b> exist as in pairs as opposed to just a single atom."
 }; // line 4-8: write out the variable "HydrogenDataAttributes" that contains the definition of 3 elements on the page: element, image, and text based on the html code.
 
 function openHydrogenPopupWindow() {
