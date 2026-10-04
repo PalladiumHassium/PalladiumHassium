@@ -3,7 +3,7 @@ var Button2 = document.getElementsByClassName("openButton")[1];
 var dataAttributes2 = {
     element: "Helium",
     image: "2.jpg",
-    text: "Helium (<b>element symbol: He</b>) is a gas element that is flavorless colorless, odorless and non-toxic. It is low in both solubility and density; however, it is high in inertness (meaning it is chemically unreactive) and thermal conductivity. It is notable to know that helium is a <b>noble gas</b>, meaning that it generally <b><u>does not</u> react with other elements</b>.",
+    text: "Helium (<b>element symbol: He</b>) is a gas element that is flavorless, colorless, odorless and non-toxic. It is low in both solubility and density; however, it is high in inertness (meaning it is chemically unreactive) and thermal conductivity. It is notable to know that helium is a <b>noble gas</b>, meaning that it generally <b><u>does not</u> react with other elements</b>.",
 };
 
 function openPopupWindow2() {
@@ -23,12 +23,12 @@ function openPopupWindow2() {
                    + "<p></p>"
                    + "<h2><u>Element Properties</u></h2>"
                    + "<p>" + text + "</p>"
-                   + "<p>Note that, a helium atom is comprised of <b>two protons and two neutrons at its nucleus</b> and <b>two electrons on its electron shell</b>. This atomic structure makes up a helium-4 – which is the most abundant helium isotope in existing in this universe. Additionally, helium is <b>not a diatomic element</b> – in other words, helium is <b>monatomic</b>, meaning it exists as single atoms rather than pairs.</p>"
+                   + "<p>Note that a helium atom is comprised of <b>two protons and two neutrons at its nucleus</b> and <b>two electrons on its electron shell</b>. This atomic structure makes up a helium-4 – which is the most abundant helium isotope in this universe. Additionally, helium is <b>not a diatomic element</b> – in other words, helium is <b>monatomic</b>, meaning it exists as single atoms rather than pairs.</p>"
                    + "<p></p>"
                    + "<h2><u>Discovery</u></h2>"
-                   + "<p>Helium was first found as an unknown element in August 18, 1868 by a French astronomer named Jules Janssen. When he was observing the solar eclipse in India, he saw a bright yellow spectral light emitting from the sun – which he believed that it was supposed to be sodium because the color was extremely close to to the D1 and D2 Fraunhofer lines.</p>"
+                   + "<p>Helium was first found as an unknown element in August 18, 1868 by a French astronomer named Jules Janssen. When he was observing the solar eclipse in India, he saw a bright yellow spectral light emitting from the sun – which he believed was sodium because the color was close to to the D1 and D2 Fraunhofer lines.</p>"
                    + "<p>On October 20 in the same year, Norman Lockyer – an English astronomer – observed a yellow line in the solar spectrum, which he named it <b>D3 Fraunhofer line</b>, and came to a conclusion that it was cause by an unknown element in the sun. Lockyer and the English chemist Edward Frankland named this element helium, from the Greek <b>helios</b>, meaning <b>sun</b>.</p>"
-                   + "<p>It was believed that the vast majority of helium-4 atoms – with small amounts of other helium hydrogen and lithium isotopes – were created from Big Bang nucleosyntheses. This event occurred during the time frame of 10 seconds to 20 minutes after the the Big Bang, and it was marked the creation of the first light nuclei, including hydrogen isotopes, helium, and a little lithium.</p>"
+                   + "<p>It is believed that the vast majority of helium-4 atoms – with small amounts of other helium hydrogen and lithium isotopes – were created from Big Bang nucleosynthesis. This event occurred during the time frame of 10 seconds to 20 minutes after the the Big Bang, and it was marked the creation of the first light nuclei, including hydrogen isotopes, helium, and a little lithium.</p>"
                    + "<p></p>"
                    + "<h2><u>Fusion on the Sun</u></h2>"
                    + "<p>How is helium related to the sun? Well, it is a product of a series of steps in the nuclear fusion reaction originating from two protons (or <b>hydrogen-1 atoms</b>), or in other words – <b>helium-4 is made from four protons (hydrogen-1 nuclei) through a series of fusion steps.</b> That reaction creates an enormous amount of energy in the form of heat and light. The image below shows a summary of how this reaction works:</p>"
