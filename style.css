@@ -1,3 +1,8 @@
+:root {
+  --cell: 79px;   /* width of every column */
+  --icon: 67px;   /* size of every element image */
+}
+
 body {
   background-color: rgb(141, 201, 201);
   overflow-x: scroll;
@@ -6,58 +11,62 @@ body {
 }
 
 .periodictable {
-  text-align: center; /*this idea is from ChatGPT*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;                 /* replaces the <br> tags */
 }
-.title{
-  font-family: Algerian, sans-serif; /* Font-family method by ChatGPT */
+
+/* every row uses the same 18 columns */
+.period1, .period2, .period3, .period4,
+.period5, .period6, .period7,
+.lanthanides, .actinides {
+  display: grid;
+  grid-template-columns: repeat(18, var(--cell));
+  justify-items: center;
+  align-items: center;
+}
+
+.lanthanides {
+  margin-top: 40px;          /* gap between the main table and the f-block */
+}
+
+.openButton {
+  background-color: transparent;
+  border: none;
+  padding: 0;                /* this was the hidden extra width */
+  margin: 0;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.openButtons,
+.SpecialImages {
+  display: block;
+  width: var(--icon);
+  height: var(--icon);
+  object-fit: contain;
+}
+
+.blank-image {
+  display: block;
+  width: var(--icon);
+  height: var(--icon);
+}
+
+.title {
+  font-family: Algerian, sans-serif;
   font-size: 25px;
   font-weight: bolder;
   text-transform: uppercase;
   text-align: center;
-  color:rgb(22, 8, 84)
-}
-.subtitle{
-  font-size: 25px;
-  font-weight: Normal;
-  font-style: italic; /* Font-style method by ChatGPT */
-  text-align: center;
-  color:rgb(130, 19, 185)
-}
-.openButton {
-  background-color: transparent;
-  border: none;
-  cursor: pointer; /* line 23-26 by ChatGPT for the elements of the periodic table. The idea is also from ChatGPT */
-}
-.openButtons {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-  width: 50px;
-  height: 50px;
-}
-.blank-image {
-  width: 72px;
-  height: 50px;
-}
-.SpecialImages {
-  width: 50px;
-  height: 50px;
+  color: rgb(22, 8, 84);
 }
 
-@media only screen and (min-width: 1024px) {
-  body {
-      width: 1500px; /* Adjusted width for larger screens */
-  }
-  .openButtons {
-    width: 67px;
-    height: 67px;
-  }
-  .blank-image {
-      width: 79px; /* No change for larger screens */
-      height: 67px;
-  }
-  .SpecialImages {
-    width: 67px;
-    height: 67px;
-  }
+.subtitle {
+  font-size: 25px;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+  color: rgb(130, 19, 185);
 }
